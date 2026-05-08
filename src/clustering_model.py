@@ -5,7 +5,7 @@ from sklearn.cluster import KMeans
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INPUT_PATH = os.path.join(BASE_DIR, 'Data', 'processed', 'cleaned.csv')
-
+OUTPUT_PATH = os.path.join(BASE_DIR, 'Data', 'processed', 'clustered.csv')
 df = pd.read_csv(INPUT_PATH)
 
 # Select numerical features for clustering
@@ -45,3 +45,5 @@ print(df.groupby('Cluster')[[
     'Monthly_Spend',
     'Churned'
 ]].mean())
+df.to_csv(OUTPUT_PATH, index=False)
+print(f'\nClustered data saved to: {OUTPUT_PATH}')

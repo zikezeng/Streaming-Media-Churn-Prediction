@@ -1,0 +1,1139 @@
+support,itemsets,length
+0.6615650456677363,frozenset({'Spend_group=40-60'}),1
+0.6598370772648728,frozenset({'Discount_group=11-20'}),1
+0.5517156257714144,frozenset({'Tickets_group=1-2'}),1
+0.5514687731424339,frozenset({'Churned=0'}),1
+0.5065415946679832,frozenset({'Activity_group=181-365d'}),1
+0.5048136262651197,frozenset({'Gender=Female'}),1
+0.4951863737348803,frozenset({'Gender=Male'}),1
+0.448531226857566,frozenset({'Churned=1'}),1
+0.448037521599605,"frozenset({'Discount_group=11-20', 'Spend_group=40-60'})",2
+0.4324858059738336,"frozenset({'Churned=0', 'Spend_group=40-60'})",2
+0.3791656381140459,frozenset({'Subscription_group=37m+'}),1
+0.37570970130831893,"frozenset({'Tickets_group=1-2', 'Spend_group=40-60'})",2
+0.361885954085411,"frozenset({'Discount_group=11-20', 'Tickets_group=1-2'})",2
+0.360898543569489,"frozenset({'Discount_group=11-20', 'Churned=0'})",2
+0.3401629227351271,frozenset({'Discount_group=1-10'}),1
+0.3386818069612441,frozenset({'Payment_Method=Debit Card'}),1
+0.3381881017032831,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20'})",2
+0.33646013330041963,"frozenset({'Activity_group=181-365d', 'Spend_group=40-60'})",2
+0.33497901752653664,"frozenset({'Gender=Female', 'Spend_group=40-60'})",2
+0.33473216489755614,frozenset({'Payment_Method=PayPal'}),1
+0.33078252283386816,"frozenset({'Gender=Male', 'Discount_group=11-20'})",2
+0.3290545544310047,"frozenset({'Gender=Female', 'Discount_group=11-20'})",2
+0.3265860281411997,"frozenset({'Gender=Male', 'Spend_group=40-60'})",2
+0.3265860281411997,frozenset({'Payment_Method=Credit Card'}),1
+0.31572451246605776,"frozenset({'Churned=0', 'Tickets_group=1-2'})",2
+0.30190076524314985,frozenset({'Tickets_group=3-5'}),1
+0.29893853369538387,"frozenset({'Discount_group=11-20', 'Churned=1'})",2
+0.28462108121451496,"frozenset({'Activity_group=181-365d', 'Churned=1'})",2
+0.28264626018267097,"frozenset({'Discount_group=11-20', 'Churned=0', 'Spend_group=40-60'})",3
+0.2819057022957295,"frozenset({'Gender=Female', 'Tickets_group=1-2'})",2
+0.2811651444087879,"frozenset({'Subscription_group=37m+', 'Spend_group=40-60'})",2
+0.28017773389286593,"frozenset({'Gender=Female', 'Churned=0'})",2
+0.27844976549000244,"frozenset({'Activity_group=181-365d', 'Tickets_group=1-2'})",2
+0.271291039249568,"frozenset({'Gender=Male', 'Churned=0'})",2
+0.269809923475685,"frozenset({'Gender=Male', 'Tickets_group=1-2'})",2
+0.26388546038015304,frozenset({'Region=West'}),1
+0.2567267341397186,frozenset({'Spend_group=20-40'}),1
+0.2552456183658356,"frozenset({'Tickets_group=1-2', 'Discount_group=11-20', 'Spend_group=40-60'})",3
+0.2552456183658356,"frozenset({'Activity_group=181-365d', 'Gender=Female'})",2
+0.2512959763021476,"frozenset({'Activity_group=181-365d', 'Gender=Male'})",2
+0.2508022710441866,"frozenset({'Tickets_group=1-2', 'Churned=0', 'Spend_group=40-60'})",3
+0.24932115527030363,frozenset({'Region=South'}),1
+0.24882745001234263,"frozenset({'Discount_group=11-20', 'Subscription_group=37m+'})",2
+0.24759318686744014,frozenset({'Activity_group=91-180d'}),1
+0.24611207109355715,frozenset({'Region=North'}),1
+0.24068131325598618,frozenset({'Region=East'}),1
+0.23599111330535671,"frozenset({'Churned=1', 'Tickets_group=1-2'})",2
+0.23105406072574672,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Spend_group=40-60'})",3
+0.22907923969390273,"frozenset({'Churned=1', 'Spend_group=40-60'})",2
+0.22562330288817575,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Spend_group=40-60'})",3
+0.22562330288817575,"frozenset({'Payment_Method=Debit Card', 'Spend_group=40-60'})",2
+0.22463589237225376,"frozenset({'Gender=Female', 'Churned=1'})",2
+0.22438903974327326,"frozenset({'Discount_group=11-20', 'Payment_Method=Debit Card'})",2
+0.22389533448531226,"frozenset({'Gender=Male', 'Churned=1'})",2
+0.22364848185633177,"frozenset({'Payment_Method=PayPal', 'Spend_group=40-60'})",2
+0.22241421871142927,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Spend_group=40-60'})",3
+0.22192051345346828,"frozenset({'Activity_group=181-365d', 'Churned=0'})",2
+0.2201925450506048,"frozenset({'Gender=Female', 'Churned=0', 'Spend_group=40-60'})",3
+0.2194519871636633,"frozenset({'Payment_Method=PayPal', 'Discount_group=11-20'})",2
+0.21599605035793631,"frozenset({'Payment_Method=Credit Card', 'Discount_group=11-20'})",2
+0.21377437669711183,"frozenset({'Subscription_group=37m+', 'Tickets_group=1-2'})",2
+0.21352752406813133,"frozenset({'Discount_group=1-10', 'Spend_group=40-60'})",2
+0.21229326092322884,"frozenset({'Gender=Male', 'Churned=0', 'Spend_group=40-60'})",3
+0.21229326092322884,"frozenset({'Payment_Method=Credit Card', 'Spend_group=40-60'})",2
+0.21130585040730684,"frozenset({'Discount_group=11-20', 'Churned=0', 'Tickets_group=1-2'})",3
+0.21056529252036535,frozenset({'Subscription_group=13-24m'}),1
+0.21031843989138485,"frozenset({'Subscription_group=37m+', 'Churned=0'})",2
+0.20784991360157987,frozenset({'Subscription_group=<=12m'}),1
+0.2031597136509504,"frozenset({'Churned=1', 'Spend_group=20-40'})",2
+0.20241915576400887,frozenset({'Subscription_group=25-36m'}),1
+0.1994569242162429,"frozenset({'Discount_group=11-20', 'Tickets_group=3-5'})",2
+0.1969883979264379,"frozenset({'Gender=Female', 'Tickets_group=1-2', 'Spend_group=40-60'})",3
+0.19550728215255492,"frozenset({'Activity_group=181-365d', 'Tickets_group=1-2', 'Spend_group=40-60'})",3
+0.19451987163663292,"frozenset({'Gender=Female', 'Subscription_group=37m+'})",2
+0.19353246112071093,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Churned=1'})",3
+0.19057022957294495,"frozenset({'Churned=0', 'Discount_group=1-10'})",2
+0.18982967168600345,"frozenset({'Discount_group=1-10', 'Tickets_group=1-2'})",2
+0.18859540854110096,"frozenset({'Activity_group=181-365d', 'Subscription_group=37m+'})",2
+0.18810170328313996,"frozenset({'Churned=0', 'Payment_Method=Debit Card'})",2
+0.18810170328313996,"frozenset({'Payment_Method=Credit Card', 'Tickets_group=1-2'})",2
+0.18612688225129598,"frozenset({'Tickets_group=3-5', 'Spend_group=40-60'})",2
+0.18513947173537398,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Tickets_group=1-2'})",3
+0.184645766477413,"frozenset({'Gender=Male', 'Subscription_group=37m+'})",2
+0.1843989138484325,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Tickets_group=1-2'})",3
+0.183658355961491,"frozenset({'Payment_Method=PayPal', 'Tickets_group=1-2'})",2
+0.182670945445569,"frozenset({'Payment_Method=PayPal', 'Churned=0'})",2
+0.182177240187608,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Churned=0'})",3
+0.181683534929647,"frozenset({'Discount_group=11-20', 'Subscription_group=37m+', 'Spend_group=40-60'})",3
+0.180696124413725,"frozenset({'Payment_Method=Credit Card', 'Churned=0'})",2
+0.17995556652678352,"frozenset({'Payment_Method=Debit Card', 'Tickets_group=1-2'})",2
+0.17872130338188102,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Churned=0'})",3
+0.17872130338188102,"frozenset({'Gender=Male', 'Tickets_group=1-2', 'Spend_group=40-60'})",3
+0.17748704023697853,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Tickets_group=1-2'})",3
+0.17748704023697853,"frozenset({'Region=West', 'Spend_group=40-60'})",2
+0.17575907183411504,"frozenset({'Gender=Female', 'Discount_group=1-10'})",2
+0.17501851394717355,"frozenset({'Activity_group=181-365d', 'Churned=0', 'Spend_group=40-60'})",3
+0.17403110343125155,"frozenset({'Region=West', 'Discount_group=11-20'})",2
+0.17403110343125155,"frozenset({'Gender=Male', 'Payment_Method=Debit Card'})",2
+0.17254998765736856,"frozenset({'Gender=Female', 'Payment_Method=PayPal'})",2
+0.17008146136756355,"frozenset({'Activity_group=181-365d', 'Gender=Female', 'Spend_group=40-60'})",3
+0.16983460873858305,"frozenset({'Activity_group=181-365d', 'Payment_Method=PayPal'})",2
+0.16934090348062206,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Gender=Male'})",3
+0.16934090348062206,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card'})",2
+0.16884719822266106,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Gender=Female'})",3
+0.16884719822266106,"frozenset({'Churned=1', 'Subscription_group=37m+'})",2
+0.16835349296470006,"frozenset({'Tickets_group=1-2', 'Discount_group=11-20', 'Churned=0', 'Spend_group=40-60'})",4
+0.16835349296470006,"frozenset({'Activity_group=181-365d', 'Discount_group=1-10'})",2
+0.16761293507775857,"frozenset({'Gender=Female', 'Payment_Method=Credit Card'})",2
+0.16736608244877807,"frozenset({'Activity_group=181-365d', 'Payment_Method=Debit Card'})",2
+0.16637867193285608,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Spend_group=40-60'})",3
+0.16613181930387558,"frozenset({'Region=South', 'Spend_group=40-60'})",2
+0.16563811404591458,"frozenset({'Churned=0', 'Activity_group=91-180d'})",2
+0.16539126141693408,"frozenset({'Discount_group=11-20', 'Churned=1', 'Spend_group=40-60'})",3
+0.16539126141693408,frozenset({'Activity_group=31-90d'}),1
+0.1646507035299926,"frozenset({'Gender=Female', 'Payment_Method=Debit Card'})",2
+0.1644038509010121,"frozenset({'Gender=Male', 'Discount_group=1-10'})",2
+0.1644038509010121,"frozenset({'Discount_group=11-20', 'Region=South'})",2
+0.1636632930140706,"frozenset({'Tickets_group=1-2', 'Subscription_group=37m+', 'Spend_group=40-60'})",3
+0.1631695877561096,"frozenset({'Spend_group=40-60', 'Activity_group=91-180d'})",2
+0.1624290298691681,"frozenset({'Gender=Female', 'Churned=0', 'Tickets_group=1-2'})",3
+0.1621821772401876,"frozenset({'Gender=Male', 'Payment_Method=PayPal'})",2
+0.1619353246112071,"frozenset({'Discount_group=11-20', 'Activity_group=91-180d'})",2
+0.1614416193532461,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Spend_group=40-60'})",3
+0.1614416193532461,"frozenset({'Region=North', 'Discount_group=11-20'})",2
+0.1609479140952851,"frozenset({'Region=East', 'Spend_group=40-60'})",2
+0.15996050357936312,"frozenset({'Discount_group=11-20', 'Region=East'})",2
+0.15946679832140212,"frozenset({'Tickets_group=3-5', 'Churned=0'})",2
+0.15897309306344112,"frozenset({'Gender=Male', 'Payment_Method=Credit Card'})",2
+0.15699827203159714,"frozenset({'Region=North', 'Spend_group=40-60'})",2
+0.15354233522587016,"frozenset({'Discount_group=11-20', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",3
+0.15329548259688966,"frozenset({'Gender=Male', 'Churned=0', 'Tickets_group=1-2'})",3
+0.15329548259688966,"frozenset({'Gender=Male', 'Tickets_group=3-5'})",2
+0.15206121945198717,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Churned=1'})",3
+0.15206121945198717,"frozenset({'Payment_Method=PayPal', 'Churned=1'})",2
+0.15132066156504567,"frozenset({'Activity_group=181-365d', 'Tickets_group=3-5'})",2
+0.15058010367810418,"frozenset({'Discount_group=11-20', 'Churned=1', 'Tickets_group=1-2'})",3
+0.15058010367810418,"frozenset({'Payment_Method=PayPal', 'Discount_group=11-20', 'Spend_group=40-60'})",3
+0.15058010367810418,"frozenset({'Churned=1', 'Payment_Method=Debit Card'})",2
+0.14983954579116268,"frozenset({'Churned=0', 'Discount_group=1-10', 'Spend_group=40-60'})",3
+0.14983954579116268,"frozenset({'Subscription_group=37m+', 'Churned=0', 'Spend_group=40-60'})",3
+0.14959269316218218,"frozenset({'Churned=1', 'Discount_group=1-10'})",2
+0.14934584053320168,"frozenset({'Churned=0', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",3
+0.1486052826462602,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Tickets_group=1-2'})",3
+0.1486052826462602,"frozenset({'Gender=Female', 'Tickets_group=3-5'})",2
+0.1478647247593187,"frozenset({'Subscription_group=25-36m', 'Spend_group=40-60'})",2
+0.1468773142433967,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Churned=1'})",3
+0.1466304616144162,"frozenset({'Region=West', 'Tickets_group=1-2'})",2
+0.1458899037274747,"frozenset({'Region=West', 'Churned=0'})",2
+0.1458899037274747,"frozenset({'Payment_Method=Credit Card', 'Churned=1'})",2
+0.1451493458405332,"frozenset({'Gender=Female', 'Subscription_group=37m+', 'Spend_group=40-60'})",3
+0.1449024932115527,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Gender=Male'})",3
+0.1449024932115527,"frozenset({'Discount_group=11-20', 'Spend_group=20-40'})",2
+0.14465564058257221,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Churned=0'})",3
+0.14391508269563072,"frozenset({'Payment_Method=Credit Card', 'Discount_group=11-20', 'Spend_group=40-60'})",3
+0.14366823006665022,"frozenset({'Activity_group=181-365d', 'Gender=Female', 'Tickets_group=1-2'})",3
+0.14317452480868922,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Churned=0', 'Spend_group=40-60'})",4
+0.14317452480868922,"frozenset({'Payment_Method=PayPal', 'Churned=0', 'Spend_group=40-60'})",3
+0.14243396692174773,"frozenset({'Churned=1', 'Tickets_group=3-5'})",2
+0.14119970377684524,"frozenset({'Discount_group=11-20', 'Subscription_group=37m+', 'Tickets_group=1-2'})",3
+0.13996544063194272,"frozenset({'Activity_group=181-365d', 'Subscription_group=37m+', 'Spend_group=40-60'})",3
+0.13996544063194272,"frozenset({'Payment_Method=Credit Card', 'Churned=0', 'Spend_group=40-60'})",3
+0.13971858800296222,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Gender=Female'})",3
+0.13971858800296222,"frozenset({'Discount_group=11-20', 'Subscription_group=<=12m'})",2
+0.13947173537398172,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Churned=0', 'Spend_group=40-60'})",4
+0.13947173537398172,"frozenset({'Discount_group=11-20', 'Subscription_group=13-24m'})",2
+0.13922488274500122,"frozenset({'Tickets_group=1-2', 'Activity_group=91-180d'})",2
+0.13774376697111823,"frozenset({'Subscription_group=37m+', 'Churned=0', 'Discount_group=11-20'})",3
+0.13700320908417674,"frozenset({'Activity_group=181-365d', 'Region=West'})",2
+0.13675635645519624,"frozenset({'Region=East', 'Churned=0'})",2
+0.13626265119723524,"frozenset({'Region=South', 'Tickets_group=1-2'})",2
+0.13601579856825474,"frozenset({'Gender=Male', 'Subscription_group=37m+', 'Spend_group=40-60'})",3
+0.13576894593927424,"frozenset({'Churned=0', 'Region=South'})",2
+0.13478153542335225,"frozenset({'Activity_group=181-365d', 'Tickets_group=1-2', 'Discount_group=11-20', 'Spend_group=40-60'})",4
+0.13478153542335225,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Tickets_group=1-2'})",3
+0.13478153542335225,"frozenset({'Region=East', 'Tickets_group=1-2'})",2
+0.13404097753641075,"frozenset({'Region=North', 'Tickets_group=1-2'})",2
+0.13354727227844976,"frozenset({'Gender=Female', 'Tickets_group=1-2', 'Discount_group=11-20', 'Spend_group=40-60'})",4
+0.13305356702048876,"frozenset({'Region=North', 'Churned=0'})",2
+0.13305356702048876,"frozenset({'Gender=Female', 'Region=West'})",2
+0.13280671439150826,"frozenset({'Subscription_group=13-24m', 'Spend_group=40-60'})",2
+0.13181930387558627,"frozenset({'Discount_group=11-20', 'Subscription_group=25-36m'})",2
+0.13132559861762527,"frozenset({'Churned=1', 'Subscription_group=37m+', 'Spend_group=40-60'})",3
+0.13107874598864477,"frozenset({'Gender=Female', 'Tickets_group=1-2', 'Churned=0', 'Spend_group=40-60'})",4
+0.13083189335966428,"frozenset({'Gender=Male', 'Region=West'})",2
+0.13058504073068378,"frozenset({'Activity_group=181-365d', 'Spend_group=20-40'})",2
+0.13058504073068378,"frozenset({'Gender=Female', 'Region=North'})",2
+0.13058504073068378,"frozenset({'Subscription_group=37m+', 'Payment_Method=Debit Card'})",2
+0.13033818810170328,"frozenset({'Subscription_group=37m+', 'Discount_group=1-10'})",2
+0.13009133547272278,"frozenset({'Churned=0', 'Spend_group=40-60', 'Activity_group=91-180d'})",3
+0.13009133547272278,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Subscription_group=37m+'})",3
+0.13009133547272278,"frozenset({'Activity_group=181-365d', 'Region=South'})",2
+0.13009133547272278,"frozenset({'Spend_group=20-40', 'Tickets_group=1-2'})",2
+0.12984448284374228,"frozenset({'Activity_group=181-365d', 'Churned=0', 'Tickets_group=1-2'})",3
+0.12959763021476178,"frozenset({'Gender=Female', 'Spend_group=20-40'})",2
+0.1281165144408788,"frozenset({'Gender=Female', 'Activity_group=91-180d'})",2
+0.1276228091829178,"frozenset({'Payment_Method=PayPal', 'Subscription_group=37m+'})",2
+0.1273759565539373,"frozenset({'Payment_Method=PayPal', 'Tickets_group=1-2', 'Spend_group=40-60'})",3
+0.1271291039249568,"frozenset({'Gender=Male', 'Spend_group=20-40'})",2
+0.1263885460380153,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Subscription_group=37m+'})",3
+0.1261416934090348,"frozenset({'Discount_group=11-20', 'Churned=0', 'Payment_Method=Debit Card'})",3
+0.1256479881510738,"frozenset({'Payment_Method=Debit Card', 'Spend_group=40-60', 'Tickets_group=1-2'})",3
+0.1256479881510738,frozenset({'Tickets_group=0'}),1
+0.12490743026413231,"frozenset({'Tickets_group=1-2', 'Churned=1', 'Spend_group=40-60'})",3
+0.12490743026413231,"frozenset({'Gender=Female', 'Region=South'})",2
+0.12441372500617132,"frozenset({'Discount_group=11-20', 'Tickets_group=3-5', 'Spend_group=40-60'})",3
+0.12441372500617132,"frozenset({'Gender=Male', 'Region=East'})",2
+0.12441372500617132,"frozenset({'Gender=Male', 'Region=South'})",2
+0.12392001974821032,"frozenset({'Payment_Method=Credit Card', 'Discount_group=11-20', 'Tickets_group=1-2'})",3
+0.12317946186126882,"frozenset({'Subscription_group=37m+', 'Churned=0', 'Tickets_group=1-2'})",3
+0.12293260923228833,"frozenset({'Activity_group=181-365d', 'Region=North'})",2
+0.12268575660330783,"frozenset({'Payment_Method=Credit Card', 'Spend_group=40-60', 'Tickets_group=1-2'})",3
+0.12194519871636633,"frozenset({'Tickets_group=3-5', 'Churned=0', 'Spend_group=40-60'})",3
+0.12169834608738583,"frozenset({'Gender=Male', 'Tickets_group=1-2', 'Discount_group=11-20', 'Spend_group=40-60'})",4
+0.12095778820044434,"frozenset({'Payment_Method=Credit Card', 'Subscription_group=37m+'})",2
+0.12046408294248334,"frozenset({'Tickets_group=1-2', 'Discount_group=1-10', 'Spend_group=40-60'})",3
+0.12046408294248334,"frozenset({'Payment_Method=PayPal', 'Discount_group=11-20', 'Tickets_group=1-2'})",3
+0.11997037768452234,"frozenset({'Discount_group=11-20', 'Churned=1', 'Spend_group=20-40'})",3
+0.11972352505554185,"frozenset({'Gender=Male', 'Tickets_group=1-2', 'Churned=0', 'Spend_group=40-60'})",4
+0.11972352505554185,"frozenset({'Region=West', 'Discount_group=11-20', 'Spend_group=40-60'})",3
+0.11972352505554185,"frozenset({'Churned=0', 'Subscription_group=13-24m'})",2
+0.11947667242656135,"frozenset({'Gender=Female', 'Churned=1', 'Tickets_group=1-2'})",3
+0.11947667242656135,"frozenset({'Gender=Male', 'Activity_group=91-180d'})",2
+0.11922981979758085,"frozenset({'Gender=Male', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",3
+0.11873611453961985,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Subscription_group=37m+'})",3
+0.11824240928165886,"frozenset({'Subscription_group=<=12m', 'Tickets_group=1-2'})",2
+0.11799555665267836,"frozenset({'Region=West', 'Churned=1'})",2
+0.11750185139471736,"frozenset({'Payment_Method=Credit Card', 'Churned=0', 'Discount_group=11-20'})",3
+0.11750185139471736,"frozenset({'Discount_group=11-20', 'Payment_Method=Debit Card', 'Tickets_group=1-2'})",3
+0.11725499876573686,"frozenset({'Payment_Method=PayPal', 'Discount_group=11-20', 'Churned=0'})",3
+0.11725499876573686,"frozenset({'Gender=Female', 'Payment_Method=PayPal', 'Spend_group=40-60'})",3
+0.11676129350777585,"frozenset({'Activity_group=181-365d', 'Payment_Method=PayPal', 'Spend_group=40-60'})",3
+0.11651444087879535,"frozenset({'Gender=Male', 'Churned=1', 'Tickets_group=1-2'})",3
+0.11651444087879535,"frozenset({'Activity_group=181-365d', 'Region=East'})",2
+0.11626758824981485,"frozenset({'Gender=Female', 'Region=East'})",2
+0.11602073562083436,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Churned=1', 'Spend_group=40-60'})",4
+0.11602073562083436,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Gender=Female', 'Spend_group=40-60'})",4
+0.11602073562083436,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Payment_Method=Debit Card'})",3
+0.11577388299185386,"frozenset({'Subscription_group=13-24m', 'Tickets_group=1-2'})",2
+0.11552703036287336,"frozenset({'Activity_group=181-365d', 'Churned=0', 'Gender=Female'})",3
+0.11552703036287336,"frozenset({'Gender=Male', 'Region=North'})",2
+0.11528017773389286,"frozenset({'Subscription_group=<=12m', 'Churned=0'})",2
+0.11528017773389286,"frozenset({'Payment_Method=PayPal', 'Discount_group=1-10'})",2
+0.11503332510491236,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Churned=0', 'Spend_group=40-60'})",4
+0.11503332510491236,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Gender=Male', 'Spend_group=40-60'})",4
+0.11478647247593186,"frozenset({'Gender=Female', 'Churned=1', 'Spend_group=40-60'})",3
+0.11478647247593186,"frozenset({'Discount_group=11-20', 'Region=South', 'Spend_group=40-60'})",3
+0.11429276721797087,"frozenset({'Gender=Male', 'Churned=1', 'Spend_group=40-60'})",3
+0.11429276721797087,"frozenset({'Discount_group=1-10', 'Payment_Method=Debit Card'})",2
+0.11379906196000987,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Payment_Method=PayPal'})",3
+0.11379906196000987,"frozenset({'Region=West', 'Churned=0', 'Spend_group=40-60'})",3
+0.11355220933102937,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Discount_group=11-20'})",3
+0.11355220933102937,"frozenset({'Churned=1', 'Region=South'})",2
+0.11305850407306837,"frozenset({'Region=North', 'Churned=1'})",2
+0.11207109355714638,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Payment_Method=PayPal'})",3
+0.11182424092816588,"frozenset({'Gender=Female', 'Subscription_group=37m+', 'Tickets_group=1-2'})",3
+0.11182424092816588,"frozenset({'Spend_group=20-40', 'Discount_group=1-10'})",2
+0.11133053567020489,"frozenset({'Gender=Female', 'Payment_Method=Credit Card', 'Spend_group=40-60'})",3
+0.11108368304122439,"frozenset({'Discount_group=11-20', 'Churned=1', 'Subscription_group=37m+'})",3
+0.11083683041224389,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Payment_Method=Debit Card'})",3
+0.11058997778326339,"frozenset({'Activity_group=181-365d', 'Subscription_group=<=12m'})",2
+0.11058997778326339,"frozenset({'Payment_Method=Credit Card', 'Discount_group=1-10'})",2
+0.11034312515428289,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Spend_group=40-60'})",3
+0.1098494198963219,"frozenset({'Discount_group=11-20', 'Spend_group=40-60', 'Activity_group=91-180d'})",3
+0.1098494198963219,"frozenset({'Tickets_group=3-5', 'Subscription_group=37m+'})",2
+0.1096025672673414,"frozenset({'Discount_group=11-20', 'Region=East', 'Spend_group=40-60'})",3
+0.1093557146383609,"frozenset({'Activity_group=181-365d', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",3
+0.1093557146383609,"frozenset({'Gender=Female', 'Discount_group=1-10', 'Spend_group=40-60'})",3
+0.1093557146383609,"frozenset({'Churned=0', 'Activity_group=31-90d'})",2
+0.1091088620093804,"frozenset({'Activity_group=31-90d', 'Spend_group=40-60'})",2
+0.1086151567514194,"frozenset({'Gender=Female', 'Payment_Method=Credit Card', 'Discount_group=11-20'})",3
+0.1083683041224389,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Spend_group=20-40'})",3
+0.1083683041224389,"frozenset({'Region=East', 'Churned=0', 'Spend_group=40-60'})",3
+0.1083683041224389,"frozenset({'Churned=0', 'Region=South', 'Spend_group=40-60'})",3
+0.1083683041224389,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Payment_Method=Debit Card'})",3
+0.1081214514934584,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Subscription_group=37m+'})",3
+0.1081214514934584,"frozenset({'Activity_group=181-365d', 'Subscription_group=37m+', 'Tickets_group=1-2'})",3
+0.1081214514934584,"frozenset({'Discount_group=11-20', 'Churned=0', 'Activity_group=91-180d'})",3
+0.10787459886447791,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Churned=0', 'Tickets_group=1-2'})",4
+0.10787459886447791,"frozenset({'Subscription_group=<=12m', 'Spend_group=20-40'})",2
+0.10762774623549741,"frozenset({'Gender=Female', 'Subscription_group=37m+', 'Churned=0'})",3
+0.10762774623549741,"frozenset({'Discount_group=11-20', 'Activity_group=31-90d'})",2
+0.10738089360651691,"frozenset({'Gender=Male', 'Payment_Method=Credit Card', 'Discount_group=11-20'})",3
+0.10738089360651691,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Payment_Method=PayPal'})",3
+0.10713404097753641,"frozenset({'Payment_Method=Credit Card', 'Churned=0', 'Tickets_group=1-2'})",3
+0.10664033571957542,"frozenset({'Tickets_group=3-5', 'Payment_Method=Debit Card'})",2
+0.10639348309059492,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Churned=0'})",3
+0.10639348309059492,"frozenset({'Churned=0', 'Payment_Method=Debit Card', 'Tickets_group=1-2'})",3
+0.10639348309059492,"frozenset({'Gender=Female', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",3
+0.10639348309059492,"frozenset({'Gender=Male', 'Payment_Method=PayPal', 'Spend_group=40-60'})",3
+0.10639348309059492,"frozenset({'Activity_group=181-365d', 'Subscription_group=13-24m'})",2
+0.10639348309059492,"frozenset({'Payment_Method=PayPal', 'Tickets_group=3-5'})",2
+0.10614663046161442,"frozenset({'Subscription_group=25-36m', 'Churned=0'})",2
+0.10614663046161442,"frozenset({'Gender=Female', 'Subscription_group=13-24m'})",2
+0.10589977783263392,"frozenset({'Gender=Male', 'Subscription_group=<=12m'})",2
+0.10565292520365342,"frozenset({'Tickets_group=1-2', 'Discount_group=11-20', 'Subscription_group=37m+', 'Spend_group=40-60'})",4
+0.10540607257467292,"frozenset({'Activity_group=181-365d', 'Discount_group=1-10', 'Spend_group=40-60'})",3
+0.10540607257467292,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Tickets_group=3-5'})",3
+0.10491236731671193,"frozenset({'Activity_group=181-365d', 'Tickets_group=1-2', 'Churned=0', 'Spend_group=40-60'})",4
+0.10441866205875093,"frozenset({'Churned=0', 'Discount_group=1-10', 'Tickets_group=1-2'})",3
+0.10441866205875093,"frozenset({'Gender=Male', 'Subscription_group=13-24m'})",2
+0.10417180942977043,"frozenset({'Gender=Male', 'Discount_group=1-10', 'Spend_group=40-60'})",3
+0.10392495680078993,"frozenset({'Region=North', 'Discount_group=11-20', 'Spend_group=40-60'})",3
+0.10392495680078993,"frozenset({'Churned=1', 'Region=East'})",2
+0.10392495680078993,"frozenset({'Subscription_group=25-36m', 'Tickets_group=1-2'})",2
+0.10367810417180943,"frozenset({'Subscription_group=13-24m', 'Churned=0', 'Spend_group=40-60'})",3
+0.10367810417180943,"frozenset({'Region=West', 'Tickets_group=1-2', 'Spend_group=40-60'})",3
+0.10343125154282894,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Churned=0', 'Tickets_group=1-2'})",4
+0.10269069365588744,"frozenset({'Activity_group=181-365d', 'Tickets_group=1-2', 'Gender=Female', 'Spend_group=40-60'})",4
+0.10269069365588744,"frozenset({'Gender=Male', 'Subscription_group=37m+', 'Churned=0'})",3
+0.10269069365588744,"frozenset({'Gender=Female', 'Churned=1', 'Spend_group=20-40'})",3
+0.10244384102690694,"frozenset({'Tickets_group=3-5', 'Discount_group=1-10'})",2
+0.10219698839792644,"frozenset({'Payment_Method=PayPal', 'Churned=0', 'Tickets_group=1-2'})",3
+0.10219698839792644,"frozenset({'Payment_Method=PayPal', 'Discount_group=11-20', 'Churned=1'})",3
+0.10219698839792644,"frozenset({'Churned=1', 'Spend_group=20-40', 'Tickets_group=1-2'})",3
+0.10219698839792644,"frozenset({'Gender=Female', 'Subscription_group=25-36m'})",2
+0.10195013576894595,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Tickets_group=3-5'})",3
+0.10195013576894595,"frozenset({'Region=North', 'Churned=0', 'Spend_group=40-60'})",3
+0.10195013576894595,"frozenset({'Gender=Male', 'Subscription_group=37m+', 'Tickets_group=1-2'})",3
+0.10195013576894595,"frozenset({'Gender=Female', 'Subscription_group=<=12m'})",2
+0.10145643051098494,"frozenset({'Discount_group=11-20', 'Tickets_group=3-5', 'Churned=0'})",3
+0.10096272525302394,"frozenset({'Gender=Male', 'Payment_Method=Credit Card', 'Spend_group=40-60'})",3
+0.10096272525302394,"frozenset({'Activity_group=181-365d', 'Subscription_group=25-36m'})",2
+0.10046901999506294,"frozenset({'Gender=Male', 'Churned=1', 'Spend_group=20-40'})",3
+0.10022216736608244,"frozenset({'Gender=Male', 'Churned=0', 'Payment_Method=Debit Card'})",3
+0.10022216736608244,"frozenset({'Gender=Male', 'Subscription_group=25-36m'})",2
+0.09972846210812145,"frozenset({'Subscription_group=<=12m', 'Spend_group=40-60'})",2
+0.09948160947914095,"frozenset({'Subscription_group=37m+', 'Discount_group=1-10', 'Spend_group=40-60'})",3
+0.09923475685016045,"frozenset({'Subscription_group=25-36m', 'Churned=0', 'Spend_group=40-60'})",3
+0.09874105159219945,"frozenset({'Discount_group=11-20', 'Churned=0', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",4
+0.09849419896321895,"frozenset({'Payment_Method=Credit Card', 'Churned=1', 'Discount_group=11-20'})",3
+0.09849419896321895,"frozenset({'Discount_group=11-20', 'Subscription_group=25-36m', 'Spend_group=40-60'})",3
+0.09849419896321895,"frozenset({'Region=West', 'Subscription_group=37m+'})",2
+0.09824734633423846,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Payment_Method=PayPal'})",3
+0.09824734633423846,"frozenset({'Discount_group=11-20', 'Churned=1', 'Payment_Method=Debit Card'})",3
+0.09800049370525796,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Gender=Male', 'Discount_group=11-20'})",4
+0.09800049370525796,"frozenset({'Gender=Female', 'Churned=0', 'Discount_group=1-10'})",3
+0.09800049370525796,"frozenset({'Discount_group=11-20', 'Churned=1', 'Tickets_group=3-5'})",3
+0.09800049370525796,"frozenset({'Spend_group=20-40', 'Tickets_group=3-5'})",2
+0.09775364107627746,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Churned=1', 'Tickets_group=1-2'})",4
+0.09775364107627746,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Tickets_group=1-2'})",3
+0.09750678844729696,"frozenset({'Gender=Female', 'Discount_group=1-10', 'Tickets_group=1-2'})",3
+0.09725993581831646,"frozenset({'Gender=Female', 'Payment_Method=PayPal', 'Churned=0'})",3
+0.09676623056035547,"frozenset({'Gender=Female', 'Payment_Method=Credit Card', 'Tickets_group=1-2'})",3
+0.09627252530239447,"frozenset({'Subscription_group=37m+', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",3
+0.09627252530239447,"frozenset({'Churned=1', 'Subscription_group=25-36m'})",2
+0.09602567267341397,"frozenset({'Payment_Method=PayPal', 'Subscription_group=37m+', 'Spend_group=40-60'})",3
+0.09577882004443347,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Gender=Female', 'Tickets_group=1-2'})",4
+0.09577882004443347,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Subscription_group=37m+', 'Spend_group=40-60'})",4
+0.09577882004443347,"frozenset({'Region=West', 'Discount_group=11-20', 'Tickets_group=1-2'})",3
+0.09577882004443347,"frozenset({'Gender=Male', 'Tickets_group=3-5', 'Spend_group=40-60'})",3
+0.09553196741545297,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Churned=1', 'Gender=Female'})",4
+0.09553196741545297,"frozenset({'Region=North', 'Subscription_group=37m+'})",2
+0.09528511478647247,"frozenset({'Activity_group=181-365d', 'Subscription_group=37m+', 'Gender=Female'})",3
+0.09528511478647247,"frozenset({'Region=West', 'Churned=0', 'Discount_group=11-20'})",3
+0.09503826215749198,"frozenset({'Gender=Female', 'Payment_Method=Credit Card', 'Churned=0'})",3
+0.09503826215749198,"frozenset({'Subscription_group=37m+', 'Activity_group=91-180d'})",2
+0.09454455689953098,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Payment_Method=Debit Card'})",3
+0.09454455689953098,"frozenset({'Gender=Female', 'Payment_Method=PayPal', 'Tickets_group=1-2'})",3
+0.09405085164156998,"frozenset({'Tickets_group=1-2', 'Churned=0', 'Activity_group=91-180d'})",3
+0.09405085164156998,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Tickets_group=3-5'})",3
+0.09380399901258948,"frozenset({'Activity_group=181-365d', 'Region=West', 'Spend_group=40-60'})",3
+0.09355714638360899,"frozenset({'Activity_group=181-365d', 'Payment_Method=PayPal', 'Tickets_group=1-2'})",3
+0.09331029375462849,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Subscription_group=37m+', 'Spend_group=40-60'})",4
+0.09331029375462849,"frozenset({'Activity_group=181-365d', 'Discount_group=1-10', 'Tickets_group=1-2'})",3
+0.09331029375462849,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Subscription_group=37m+'})",3
+0.09306344112564799,"frozenset({'Discount_group=11-20', 'Subscription_group=13-24m', 'Spend_group=40-60'})",3
+0.09306344112564799,"frozenset({'Subscription_group=37m+', 'Region=South'})",2
+0.09281658849666749,"frozenset({'Activity_group=181-365d', 'Tickets_group=1-2', 'Gender=Male', 'Spend_group=40-60'})",4
+0.09281658849666749,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Tickets_group=3-5'})",3
+0.09281658849666749,"frozenset({'Tickets_group=1-2', 'Region=South', 'Spend_group=40-60'})",3
+0.09256973586768699,"frozenset({'Gender=Male', 'Churned=0', 'Discount_group=1-10'})",3
+0.09256973586768699,"frozenset({'Churned=1', 'Subscription_group=<=12m'})",2
+0.0923228832387065,"frozenset({'Payment_Method=Credit Card', 'Discount_group=11-20', 'Churned=0', 'Spend_group=40-60'})",4
+0.0923228832387065,"frozenset({'Discount_group=11-20', 'Churned=1', 'Subscription_group=37m+', 'Spend_group=40-60'})",4
+0.0923228832387065,"frozenset({'Gender=Male', 'Discount_group=1-10', 'Tickets_group=1-2'})",3
+0.092076030609726,"frozenset({'Region=East', 'Subscription_group=37m+'})",2
+0.0918291779807455,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Churned=1'})",3
+0.0918291779807455,"frozenset({'Region=West', 'Payment_Method=Debit Card'})",2
+0.091582325351765,"frozenset({'Payment_Method=PayPal', 'Discount_group=11-20', 'Churned=0', 'Spend_group=40-60'})",4
+0.0913354727227845,"frozenset({'Discount_group=11-20', 'Churned=0', 'Region=South'})",3
+0.0913354727227845,"frozenset({'Gender=Male', 'Payment_Method=Credit Card', 'Tickets_group=1-2'})",3
+0.091088620093804,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Discount_group=1-10'})",3
+0.0908417674648235,"frozenset({'Churned=1', 'Subscription_group=13-24m'})",2
+0.0908417674648235,"frozenset({'Payment_Method=PayPal', 'Region=West'})",2
+0.090594914835843,"frozenset({'Activity_group=181-365d', 'Tickets_group=1-2', 'Churned=1', 'Spend_group=40-60'})",4
+0.090594914835843,"frozenset({'Activity_group=181-365d', 'Tickets_group=3-5', 'Spend_group=40-60'})",3
+0.090594914835843,"frozenset({'Churned=1', 'Subscription_group=37m+', 'Tickets_group=1-2'})",3
+0.090594914835843,"frozenset({'Discount_group=11-20', 'Region=South', 'Tickets_group=1-2'})",3
+0.090594914835843,"frozenset({'Gender=Female', 'Payment_Method=Debit Card', 'Tickets_group=1-2'})",3
+0.0903480622068625,"frozenset({'Activity_group=181-365d', 'Churned=0', 'Gender=Female', 'Spend_group=40-60'})",4
+0.0903480622068625,"frozenset({'Activity_group=181-365d', 'Region=West', 'Discount_group=11-20'})",3
+0.0903480622068625,"frozenset({'Gender=Female', 'Tickets_group=3-5', 'Spend_group=40-60'})",3
+0.0903480622068625,"frozenset({'Tickets_group=1-2', 'Region=East', 'Spend_group=40-60'})",3
+0.08985435694890151,"frozenset({'Discount_group=11-20', 'Region=East', 'Tickets_group=1-2'})",3
+0.08985435694890151,"frozenset({'Gender=Female', 'Region=West', 'Spend_group=40-60'})",3
+0.08985435694890151,"frozenset({'Region=West', 'Discount_group=1-10'})",2
+0.08960750431992101,"frozenset({'Activity_group=181-365d', 'Payment_Method=PayPal', 'Gender=Female'})",3
+0.08960750431992101,"frozenset({'Tickets_group=1-2', 'Discount_group=11-20', 'Activity_group=91-180d'})",3
+0.08936065169094051,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Gender=Male', 'Tickets_group=1-2'})",4
+0.08936065169094051,"frozenset({'Subscription_group=37m+', 'Discount_group=11-20', 'Churned=0', 'Spend_group=40-60'})",4
+0.08936065169094051,"frozenset({'Tickets_group=1-2', 'Churned=0', 'Subscription_group=37m+', 'Spend_group=40-60'})",4
+0.08936065169094051,"frozenset({'Gender=Male', 'Payment_Method=Debit Card', 'Tickets_group=1-2'})",3
+0.08911379906196001,"frozenset({'Activity_group=91-180d', 'Spend_group=40-60', 'Tickets_group=1-2'})",3
+0.08911379906196001,"frozenset({'Gender=Male', 'Payment_Method=PayPal', 'Tickets_group=1-2'})",3
+0.08886694643297952,"frozenset({'Discount_group=11-20', 'Region=East', 'Churned=0'})",3
+0.08886694643297952,"frozenset({'Payment_Method=Credit Card', 'Subscription_group=37m+', 'Spend_group=40-60'})",3
+0.08886694643297952,"frozenset({'Region=North', 'Tickets_group=1-2', 'Spend_group=40-60'})",3
+0.08886694643297952,"frozenset({'Payment_Method=Credit Card', 'Tickets_group=3-5'})",2
+0.08837324117501852,"frozenset({'Gender=Female', 'Region=West', 'Discount_group=11-20'})",3
+0.08837324117501852,"frozenset({'Activity_group=31-90d', 'Tickets_group=1-2'})",2
+0.08787953591705752,"frozenset({'Gender=Female', 'Churned=0', 'Payment_Method=Debit Card'})",3
+0.08787953591705752,"frozenset({'Region=West', 'Churned=0', 'Tickets_group=1-2'})",3
+0.08763268328807702,"frozenset({'Activity_group=181-365d', 'Region=South', 'Spend_group=40-60'})",3
+0.08763268328807702,"frozenset({'Gender=Male', 'Region=West', 'Spend_group=40-60'})",3
+0.08738583065909653,"frozenset({'Spend_group=40-60', 'Tickets_group=1-2', 'Gender=Female', 'Churned=0', 'Discount_group=11-20'})",5
+0.08738583065909653,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Churned=0', 'Tickets_group=1-2'})",4
+0.08738583065909653,"frozenset({'Payment_Method=Debit Card', 'Region=South'})",2
+0.08713897803011603,"frozenset({'Activity_group=181-365d', 'Payment_Method=Debit Card', 'Tickets_group=1-2'})",3
+0.08713897803011603,"frozenset({'Payment_Method=Credit Card', 'Spend_group=20-40'})",2
+0.08689212540113553,"frozenset({'Tickets_group=1-2', 'Churned=1', 'Discount_group=11-20', 'Spend_group=40-60'})",4
+0.08689212540113553,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Payment_Method=Debit Card'})",3
+0.08689212540113553,"frozenset({'Gender=Female', 'Churned=1', 'Subscription_group=37m+'})",3
+0.08664527277215503,"frozenset({'Payment_Method=PayPal', 'Tickets_group=1-2', 'Discount_group=11-20', 'Spend_group=40-60'})",4
+0.08664527277215503,"frozenset({'Gender=Female', 'Tickets_group=1-2', 'Subscription_group=37m+', 'Spend_group=40-60'})",4
+0.08639842014317453,"frozenset({'Activity_group=181-365d', 'Discount_group=1-10', 'Gender=Female'})",3
+0.08615156751419403,"frozenset({'Gender=Female', 'Spend_group=40-60', 'Activity_group=91-180d'})",3
+0.08590471488521352,"frozenset({'Discount_group=11-20', 'Churned=0', 'Spend_group=40-60', 'Activity_group=91-180d'})",4
+0.08590471488521352,"frozenset({'Churned=0', 'Payment_Method=Debit Card', 'Spend_group=40-60', 'Tickets_group=1-2'})",4
+0.08590471488521352,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Subscription_group=37m+', 'Spend_group=40-60'})",4
+0.08565786225623302,"frozenset({'Gender=Male', 'Payment_Method=Credit Card', 'Churned=0'})",3
+0.08565786225623302,"frozenset({'Gender=Male', 'Region=West', 'Discount_group=11-20'})",3
+0.08565786225623302,"frozenset({'Region=North', 'Discount_group=11-20', 'Tickets_group=1-2'})",3
+0.08565786225623302,"frozenset({'Discount_group=1-10', 'Activity_group=91-180d'})",2
+0.08541100962725252,"frozenset({'Region=North', 'Discount_group=11-20', 'Churned=0'})",3
+0.08541100962725252,"frozenset({'Gender=Male', 'Payment_Method=PayPal', 'Churned=0'})",3
+0.08541100962725252,"frozenset({'Churned=1', 'Discount_group=1-10', 'Tickets_group=1-2'})",3
+0.08516415699827203,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Gender=Female'})",3
+0.08516415699827203,"frozenset({'Tickets_group=0', 'Spend_group=40-60'})",2
+0.08491730436929153,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Region=North'})",3
+0.08491730436929153,"frozenset({'Payment_Method=PayPal', 'Discount_group=11-20', 'Subscription_group=37m+'})",3
+0.08491730436929153,"frozenset({'Discount_group=1-10', 'Region=South'})",2
+0.08491730436929153,"frozenset({'Payment_Method=PayPal', 'Spend_group=20-40'})",2
+0.08467045174031103,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Churned=0', 'Spend_group=40-60'})",4
+0.08467045174031103,"frozenset({'Churned=0', 'Activity_group=31-90d', 'Spend_group=40-60'})",3
+0.08467045174031103,"frozenset({'Region=North', 'Discount_group=1-10'})",2
+0.08467045174031103,"frozenset({'Spend_group=20-40', 'Payment_Method=Debit Card'})",2
+0.08442359911133053,"frozenset({'Discount_group=11-20', 'Payment_Method=Debit Card', 'Spend_group=40-60', 'Tickets_group=1-2'})",4
+0.08442359911133053,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Activity_group=91-180d'})",3
+0.08417674648235003,"frozenset({'Payment_Method=Credit Card', 'Discount_group=11-20', 'Spend_group=40-60', 'Tickets_group=1-2'})",4
+0.08417674648235003,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Gender=Male'})",3
+0.08417674648235003,"frozenset({'Discount_group=11-20', 'Subscription_group=37m+', 'Payment_Method=Debit Card'})",3
+0.08417674648235003,"frozenset({'Payment_Method=Debit Card', 'Activity_group=91-180d'})",2
+0.08392989385336953,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Region=East'})",3
+0.08392989385336953,"frozenset({'Gender=Male', 'Activity_group=31-90d'})",2
+0.08368304122438903,"frozenset({'Payment_Method=PayPal', 'Region=North'})",2
+0.08343618859540854,"frozenset({'Gender=Female', 'Region=South', 'Spend_group=40-60'})",3
+0.08343618859540854,"frozenset({'Payment_Method=Credit Card', 'Activity_group=91-180d'})",2
+0.08318933596642804,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Region=South'})",3
+0.08318933596642804,"frozenset({'Churned=1', 'Spend_group=20-40', 'Discount_group=1-10'})",3
+0.08318933596642804,"frozenset({'Gender=Female', 'Region=North', 'Spend_group=40-60'})",3
+0.08318933596642804,"frozenset({'Discount_group=11-20', 'Tickets_group=0'})",2
+0.08294248333744754,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Churned=1', 'Spend_group=40-60'})",4
+0.08294248333744754,"frozenset({'Gender=Female', 'Churned=0', 'Activity_group=91-180d'})",3
+0.08269563070846704,"frozenset({'Activity_group=181-365d', 'Tickets_group=1-2', 'Subscription_group=37m+', 'Spend_group=40-60'})",4
+0.08269563070846704,"frozenset({'Payment_Method=Credit Card', 'Churned=0', 'Spend_group=40-60', 'Tickets_group=1-2'})",4
+0.08269563070846704,"frozenset({'Gender=Male', 'Churned=0', 'Activity_group=91-180d'})",3
+0.08269563070846704,"frozenset({'Gender=Male', 'Region=South', 'Spend_group=40-60'})",3
+0.08244877807948654,"frozenset({'Tickets_group=1-2', 'Churned=0', 'Discount_group=1-10', 'Spend_group=40-60'})",4
+0.08244877807948654,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Churned=1', 'Spend_group=40-60'})",4
+0.08244877807948654,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Region=North'})",3
+0.08244877807948654,"frozenset({'Gender=Male', 'Region=East', 'Spend_group=40-60'})",3
+0.08220192545050604,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Subscription_group=37m+', 'Spend_group=40-60'})",4
+0.08220192545050604,"frozenset({'Payment_Method=PayPal', 'Tickets_group=1-2', 'Churned=0', 'Spend_group=40-60'})",4
+0.08220192545050604,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Region=South'})",3
+0.08220192545050604,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Region=South'})",3
+0.08195507282152555,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Discount_group=1-10'})",3
+0.08195507282152555,"frozenset({'Gender=Male', 'Churned=1', 'Subscription_group=37m+'})",3
+0.08195507282152555,"frozenset({'Churned=1', 'Activity_group=91-180d'})",2
+0.08195507282152555,"frozenset({'Payment_Method=Credit Card', 'Region=East'})",2
+0.08195507282152555,"frozenset({'Payment_Method=Credit Card', 'Region=South'})",2
+0.08170822019254505,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Gender=Male', 'Spend_group=40-60'})",4
+0.08170822019254505,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Payment_Method=PayPal', 'Spend_group=40-60'})",4
+0.08170822019254505,"frozenset({'Subscription_group=37m+', 'Discount_group=11-20', 'Churned=0', 'Tickets_group=1-2'})",4
+0.08146136756356455,"frozenset({'Payment_Method=PayPal', 'Churned=1', 'Tickets_group=1-2'})",3
+0.08146136756356455,"frozenset({'Gender=Female', 'Activity_group=31-90d'})",2
+0.08146136756356455,"frozenset({'Region=North', 'Payment_Method=Credit Card'})",2
+0.08121451493458405,"frozenset({'Payment_Method=Credit Card', 'Region=West'})",2
+0.08096766230560355,"frozenset({'Spend_group=40-60', 'Tickets_group=1-2', 'Churned=0', 'Gender=Male', 'Discount_group=11-20'})",5
+0.08096766230560355,"frozenset({'Payment_Method=Credit Card', 'Churned=1', 'Tickets_group=1-2'})",3
+0.08096766230560355,"frozenset({'Region=North', 'Payment_Method=Debit Card'})",2
+0.08096766230560355,frozenset({'Spend_group=60-80'}),1
+0.08072080967662305,"frozenset({'Gender=Male', 'Churned=0', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",4
+0.08072080967662305,"frozenset({'Gender=Female', 'Tickets_group=3-5', 'Churned=0'})",3
+0.08072080967662305,"frozenset({'Region=East', 'Discount_group=1-10'})",2
+0.08047395704764256,"frozenset({'Activity_group=181-365d', 'Subscription_group=37m+', 'Churned=0'})",3
+0.08047395704764256,"frozenset({'Activity_group=181-365d', 'Gender=Female', 'Payment_Method=Debit Card'})",3
+0.08047395704764256,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Tickets_group=3-5'})",3
+0.08047395704764256,"frozenset({'Payment_Method=PayPal', 'Churned=1', 'Spend_group=40-60'})",3
+0.08047395704764256,frozenset({'Activity_group=<=30d'}),1
+0.08022710441866206,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",4
+0.08022710441866206,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Payment_Method=PayPal'})",3
+0.08022710441866206,"frozenset({'Tickets_group=3-5', 'Subscription_group=37m+', 'Spend_group=40-60'})",3
+0.08022710441866206,"frozenset({'Payment_Method=PayPal', 'Region=East'})",2
+0.08022710441866206,"frozenset({'Region=West', 'Tickets_group=3-5'})",2
+0.07998025178968156,"frozenset({'Payment_Method=PayPal', 'Activity_group=91-180d'})",2
+0.07998025178968156,"frozenset({'Payment_Method=PayPal', 'Region=South'})",2
+0.07973339916070106,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Gender=Female', 'Spend_group=40-60'})",4
+0.07973339916070106,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Region=East'})",3
+0.07973339916070106,"frozenset({'Subscription_group=<=12m', 'Churned=0', 'Spend_group=40-60'})",3
+0.07973339916070106,"frozenset({'Payment_Method=Credit Card', 'Subscription_group=37m+', 'Discount_group=11-20'})",3
+0.07948654653172056,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Payment_Method=PayPal', 'Spend_group=40-60'})",4
+0.07948654653172056,"frozenset({'Activity_group=181-365d', 'Region=North', 'Spend_group=40-60'})",3
+0.07899284127375956,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Region=North'})",3
+0.07874598864477907,"frozenset({'Gender=Male', 'Tickets_group=3-5', 'Churned=0'})",3
+0.07874598864477907,"frozenset({'Region=West', 'Churned=1', 'Discount_group=11-20'})",3
+0.07849913601579857,"frozenset({'Region=East', 'Churned=0', 'Tickets_group=1-2'})",3
+0.07849913601579857,"frozenset({'Gender=Female', 'Region=East', 'Spend_group=40-60'})",3
+0.07849913601579857,"frozenset({'Tickets_group=3-5', 'Activity_group=91-180d'})",2
+0.07849913601579857,"frozenset({'Region=East', 'Payment_Method=Debit Card'})",2
+0.07825228338681807,"frozenset({'Discount_group=11-20', 'Churned=0', 'Subscription_group=13-24m'})",3
+0.07825228338681807,"frozenset({'Discount_group=11-20', 'Subscription_group=13-24m', 'Tickets_group=1-2'})",3
+0.07825228338681807,"frozenset({'Discount_group=11-20', 'Subscription_group=<=12m', 'Tickets_group=1-2'})",3
+0.07775857812885707,"frozenset({'Discount_group=11-20', 'Tickets_group=3-5', 'Churned=0', 'Spend_group=40-60'})",4
+0.07775857812885707,"frozenset({'Gender=Female', 'Churned=1', 'Discount_group=1-10'})",3
+0.07751172549987657,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Churned=0'})",3
+0.07751172549987657,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Activity_group=91-180d'})",3
+0.07726487287089608,"frozenset({'Activity_group=181-365d', 'Churned=0', 'Discount_group=1-10'})",3
+0.07726487287089608,"frozenset({'Spend_group=20-40', 'Subscription_group=13-24m'})",2
+0.07701802024191558,"frozenset({'Gender=Female', 'Churned=0', 'Discount_group=1-10', 'Spend_group=40-60'})",4
+0.07701802024191558,"frozenset({'Gender=Female', 'Subscription_group=37m+', 'Churned=0', 'Spend_group=40-60'})",4
+0.07701802024191558,"frozenset({'Gender=Male', 'Tickets_group=1-2', 'Subscription_group=37m+', 'Spend_group=40-60'})",4
+0.07701802024191558,"frozenset({'Gender=Male', 'Spend_group=40-60', 'Activity_group=91-180d'})",3
+0.07701802024191558,"frozenset({'Discount_group=11-20', 'Subscription_group=<=12m', 'Churned=0'})",3
+0.07677116761293508,"frozenset({'Gender=Female', 'Churned=1', 'Payment_Method=Debit Card'})",3
+0.07677116761293508,"frozenset({'Gender=Male', 'Churned=1', 'Payment_Method=PayPal'})",3
+0.07652431498395458,"frozenset({'Gender=Female', 'Payment_Method=PayPal', 'Churned=0', 'Spend_group=40-60'})",4
+0.07652431498395458,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Churned=1', 'Tickets_group=1-2'})",4
+0.07652431498395458,"frozenset({'Tickets_group=1-2', 'Subscription_group=25-36m', 'Spend_group=40-60'})",3
+0.07627746235497408,"frozenset({'Activity_group=181-365d', 'Region=West', 'Churned=1'})",3
+0.07627746235497408,"frozenset({'Churned=1', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",3
+0.07627746235497408,"frozenset({'Tickets_group=0', 'Churned=0'})",2
+0.07603060972599358,"frozenset({'Churned=0', 'Region=South', 'Tickets_group=1-2'})",3
+0.07603060972599358,"frozenset({'Region=North', 'Discount_group=11-20', 'Churned=1'})",3
+0.07603060972599358,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Region=East'})",3
+0.07578375709701309,"frozenset({'Tickets_group=3-5', 'Region=South'})",2
+0.07553690446803259,"frozenset({'Activity_group=181-365d', 'Region=East', 'Spend_group=40-60'})",3
+0.07529005183905209,"frozenset({'Activity_group=181-365d', 'Region=West', 'Tickets_group=1-2'})",3
+0.07529005183905209,"frozenset({'Gender=Female', 'Region=West', 'Churned=0'})",3
+0.07529005183905209,"frozenset({'Gender=Female', 'Churned=1', 'Payment_Method=PayPal'})",3
+0.07529005183905209,"frozenset({'Subscription_group=37m+', 'Spend_group=60-80'})",2
+0.07504319921007159,"frozenset({'Gender=Female', 'Payment_Method=Credit Card', 'Churned=0', 'Spend_group=40-60'})",4
+0.07504319921007159,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Subscription_group=37m+', 'Tickets_group=1-2'})",4
+0.07504319921007159,"frozenset({'Churned=1', 'Spend_group=20-40', 'Tickets_group=3-5'})",3
+0.07504319921007159,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Spend_group=20-40'})",3
+0.07479634658109109,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Discount_group=11-20', 'Spend_group=40-60'})",4
+0.07479634658109109,"frozenset({'Discount_group=11-20', 'Subscription_group=<=12m', 'Spend_group=40-60'})",3
+0.0745494939521106,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Gender=Female', 'Tickets_group=1-2'})",4
+0.0745494939521106,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",4
+0.0745494939521106,"frozenset({'Gender=Male', 'Churned=1', 'Tickets_group=3-5'})",3
+0.0745494939521106,"frozenset({'Gender=Female', 'Subscription_group=25-36m', 'Spend_group=40-60'})",3
+0.0743026413231301,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Subscription_group=37m+', 'Tickets_group=1-2'})",4
+0.0743026413231301,"frozenset({'Tickets_group=1-2', 'Churned=1', 'Subscription_group=37m+', 'Spend_group=40-60'})",4
+0.0743026413231301,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Spend_group=20-40'})",3
+0.0740557886941496,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Gender=Male', 'Tickets_group=1-2'})",4
+0.0740557886941496,"frozenset({'Discount_group=11-20', 'Churned=0', 'Region=South', 'Spend_group=40-60'})",4
+0.0740557886941496,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Churned=1', 'Tickets_group=1-2'})",4
+0.0740557886941496,"frozenset({'Gender=Male', 'Region=West', 'Tickets_group=1-2'})",3
+0.0738089360651691,"frozenset({'Gender=Male', 'Churned=1', 'Payment_Method=Debit Card'})",3
+0.0738089360651691,"frozenset({'Gender=Male', 'Region=North', 'Spend_group=40-60'})",3
+0.0738089360651691,"frozenset({'Region=East', 'Tickets_group=3-5'})",2
+0.0735620834361886,"frozenset({'Region=West', 'Discount_group=11-20', 'Churned=0', 'Spend_group=40-60'})",4
+0.0735620834361886,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Region=South'})",3
+0.0735620834361886,"frozenset({'Churned=1', 'Payment_Method=Debit Card', 'Tickets_group=1-2'})",3
+0.0735620834361886,"frozenset({'Tickets_group=1-2', 'Subscription_group=13-24m', 'Spend_group=40-60'})",3
+0.0733152308072081,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Churned=0', 'Gender=Female'})",4
+0.0733152308072081,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",4
+0.0733152308072081,"frozenset({'Region=North', 'Churned=0', 'Tickets_group=1-2'})",3
+0.0733152308072081,"frozenset({'Gender=Male', 'Payment_Method=Credit Card', 'Churned=1'})",3
+0.0733152308072081,"frozenset({'Gender=Male', 'Subscription_group=25-36m', 'Spend_group=40-60'})",3
+0.0730683781782276,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Churned=1', 'Subscription_group=37m+'})",4
+0.0730683781782276,"frozenset({'Activity_group=91-180d', 'Churned=0', 'Spend_group=40-60', 'Tickets_group=1-2'})",4
+0.0730683781782276,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Subscription_group=<=12m'})",3
+0.0730683781782276,"frozenset({'Discount_group=11-20', 'Churned=1', 'Region=South'})",3
+0.0730683781782276,"frozenset({'Payment_Method=PayPal', 'Discount_group=1-10', 'Spend_group=40-60'})",3
+0.0730683781782276,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Subscription_group=13-24m'})",3
+0.0728215255492471,"frozenset({'Gender=Male', 'Churned=0', 'Discount_group=1-10', 'Spend_group=40-60'})",4
+0.0728215255492471,"frozenset({'Discount_group=11-20', 'Churned=0', 'Payment_Method=Debit Card', 'Tickets_group=1-2'})",4
+0.0728215255492471,"frozenset({'Gender=Male', 'Subscription_group=37m+', 'Churned=0', 'Spend_group=40-60'})",4
+0.0728215255492471,"frozenset({'Gender=Female', 'Payment_Method=Credit Card', 'Discount_group=11-20', 'Spend_group=40-60'})",4
+0.0728215255492471,"frozenset({'Activity_group=181-365d', 'Churned=0', 'Payment_Method=Debit Card'})",3
+0.0728215255492471,"frozenset({'Activity_group=181-365d', 'Subscription_group=25-36m', 'Spend_group=40-60'})",3
+0.0728215255492471,"frozenset({'Discount_group=11-20', 'Churned=0', 'Activity_group=31-90d'})",3
+0.0728215255492471,"frozenset({'Gender=Female', 'Tickets_group=1-2', 'Activity_group=91-180d'})",3
+0.0728215255492471,"frozenset({'Region=West', 'Subscription_group=37m+', 'Spend_group=40-60'})",3
+0.0725746729202666,"frozenset({'Gender=Female', 'Subscription_group=37m+', 'Churned=0', 'Discount_group=11-20'})",4
+0.0725746729202666,"frozenset({'Activity_group=181-365d', 'Region=West', 'Gender=Male'})",3
+0.0725746729202666,"frozenset({'Subscription_group=37m+', 'Churned=0', 'Discount_group=1-10'})",3
+0.0725746729202666,"frozenset({'Gender=Female', 'Payment_Method=Credit Card', 'Churned=1'})",3
+0.0725746729202666,"frozenset({'Churned=1', 'Subscription_group=<=12m', 'Spend_group=20-40'})",3
+0.0725746729202666,"frozenset({'Subscription_group=37m+', 'Discount_group=1-10', 'Tickets_group=1-2'})",3
+0.0725746729202666,"frozenset({'Gender=Female', 'Region=West', 'Tickets_group=1-2'})",3
+0.0725746729202666,"frozenset({'Payment_Method=PayPal', 'Subscription_group=<=12m'})",2
+0.07232782029128611,"frozenset({'Payment_Method=Credit Card', 'Churned=1', 'Spend_group=40-60'})",3
+0.07208096766230561,"frozenset({'Discount_group=11-20', 'Activity_group=31-90d', 'Spend_group=40-60'})",3
+0.07208096766230561,"frozenset({'Discount_group=1-10', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",3
+0.07208096766230561,"frozenset({'Region=North', 'Tickets_group=3-5'})",2
+0.07183411503332511,"frozenset({'Activity_group=181-365d', 'Subscription_group=37m+', 'Gender=Female', 'Spend_group=40-60'})",4
+0.07183411503332511,"frozenset({'Gender=Male', 'Churned=1', 'Discount_group=1-10'})",3
+0.07183411503332511,"frozenset({'Payment_Method=Credit Card', 'Subscription_group=37m+', 'Tickets_group=1-2'})",3
+0.07158726240434461,"frozenset({'Activity_group=181-365d', 'Payment_Method=PayPal', 'Churned=0'})",3
+0.07158726240434461,"frozenset({'Payment_Method=PayPal', 'Subscription_group=37m+', 'Churned=0'})",3
+0.07134040977536411,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Gender=Male', 'Churned=0'})",4
+0.07134040977536411,"frozenset({'Discount_group=11-20', 'Region=East', 'Churned=0', 'Spend_group=40-60'})",4
+0.07134040977536411,"frozenset({'Subscription_group=13-24m', 'Discount_group=11-20', 'Churned=0', 'Spend_group=40-60'})",4
+0.07134040977536411,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Region=North'})",3
+0.07134040977536411,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Subscription_group=13-24m'})",3
+0.07134040977536411,"frozenset({'Subscription_group=37m+', 'Spend_group=40-60', 'Activity_group=91-180d'})",3
+0.07134040977536411,"frozenset({'Subscription_group=37m+', 'Churned=0', 'Payment_Method=Debit Card'})",3
+0.07134040977536411,"frozenset({'Payment_Method=PayPal', 'Subscription_group=37m+', 'Tickets_group=1-2'})",3
+0.07109355714638362,"frozenset({'Payment_Method=Credit Card', 'Discount_group=11-20', 'Churned=0', 'Tickets_group=1-2'})",4
+0.07109355714638362,"frozenset({'Gender=Male', 'Payment_Method=Credit Card', 'Discount_group=11-20', 'Spend_group=40-60'})",4
+0.07109355714638362,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Payment_Method=PayPal', 'Spend_group=40-60'})",4
+0.07109355714638362,"frozenset({'Discount_group=11-20', 'Churned=1', 'Region=East'})",3
+0.07109355714638362,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Subscription_group=<=12m'})",3
+0.07109355714638362,"frozenset({'Subscription_group=13-24m', 'Discount_group=1-10'})",2
+0.07084670451740312,"frozenset({'Spend_group=40-60', 'Activity_group=181-365d', 'Tickets_group=1-2', 'Churned=0', 'Discount_group=11-20'})",5
+0.07084670451740312,"frozenset({'Region=West', 'Tickets_group=1-2', 'Churned=0', 'Spend_group=40-60'})",4
+0.07084670451740312,"frozenset({'Activity_group=181-365d', 'Tickets_group=3-5', 'Gender=Female'})",3
+0.07059985188842262,"frozenset({'Spend_group=40-60', 'Activity_group=181-365d', 'Tickets_group=1-2', 'Gender=Female', 'Discount_group=11-20'})",5
+0.07059985188842262,"frozenset({'Activity_group=181-365d', 'Region=South', 'Tickets_group=1-2'})",3
+0.07059985188842262,"frozenset({'Gender=Male', 'Region=West', 'Churned=0'})",3
+0.07059985188842262,"frozenset({'Payment_Method=PayPal', 'Discount_group=11-20', 'Tickets_group=3-5'})",3
+0.07059985188842262,"frozenset({'Gender=Female', 'Region=North', 'Tickets_group=1-2'})",3
+0.07059985188842262,"frozenset({'Subscription_group=37m+', 'Payment_Method=Debit Card', 'Tickets_group=1-2'})",3
+0.07059985188842262,"frozenset({'Subscription_group=25-36m', 'Discount_group=1-10'})",2
+0.07059985188842262,"frozenset({'Payment_Method=PayPal', 'Subscription_group=13-24m'})",2
+0.07035299925944212,"frozenset({'Gender=Female', 'Churned=0', 'Region=North'})",3
+0.07035299925944212,"frozenset({'Gender=Male', 'Region=East', 'Churned=0'})",3
+0.07010614663046161,"frozenset({'Discount_group=11-20', 'Tickets_group=3-5', 'Subscription_group=37m+'})",3
+0.07010614663046161,"frozenset({'Payment_Method=Credit Card', 'Subscription_group=25-36m'})",2
+0.07010614663046161,"frozenset({'Subscription_group=13-24m', 'Payment_Method=Debit Card'})",2
+0.06985929400148111,"frozenset({'Region=West', 'Tickets_group=1-2', 'Discount_group=11-20', 'Spend_group=40-60'})",4
+0.06985929400148111,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Spend_group=20-40'})",3
+0.06985929400148111,"frozenset({'Discount_group=11-20', 'Tickets_group=3-5', 'Payment_Method=Debit Card'})",3
+0.06985929400148111,"frozenset({'Gender=Female', 'Region=East', 'Tickets_group=1-2'})",3
+0.06985929400148111,"frozenset({'Subscription_group=37m+', 'Region=South', 'Spend_group=40-60'})",3
+0.06985929400148111,"frozenset({'Payment_Method=Credit Card', 'Subscription_group=13-24m'})",2
+0.06961244137250061,"frozenset({'Region=East', 'Subscription_group=37m+', 'Spend_group=40-60'})",3
+0.06961244137250061,"frozenset({'Subscription_group=<=12m', 'Payment_Method=Debit Card'})",2
+0.06936558874352011,"frozenset({'Activity_group=181-365d', 'Tickets_group=1-2', 'Payment_Method=PayPal', 'Spend_group=40-60'})",4
+0.06911873611453961,"frozenset({'Activity_group=181-365d', 'Churned=0', 'Gender=Female', 'Tickets_group=1-2'})",4
+0.06911873611453961,"frozenset({'Activity_group=181-365d', 'Subscription_group=13-24m', 'Spend_group=40-60'})",3
+0.06887188348555912,"frozenset({'Discount_group=11-20', 'Spend_group=20-40', 'Tickets_group=1-2'})",3
+0.06887188348555912,"frozenset({'Gender=Female', 'Region=South', 'Tickets_group=1-2'})",3
+0.06887188348555912,"frozenset({'Region=North', 'Subscription_group=37m+', 'Spend_group=40-60'})",3
+0.06862503085657862,"frozenset({'Gender=Female', 'Churned=0', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",4
+0.06862503085657862,"frozenset({'Subscription_group=<=12m', 'Churned=0', 'Tickets_group=1-2'})",3
+0.06862503085657862,"frozenset({'Churned=1', 'Spend_group=20-40', 'Payment_Method=Debit Card'})",3
+0.06862503085657862,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Subscription_group=<=12m'})",3
+0.06837817822759812,"frozenset({'Activity_group=181-365d', 'Region=North', 'Tickets_group=1-2'})",3
+0.06837817822759812,"frozenset({'Payment_Method=Credit Card', 'Discount_group=1-10', 'Spend_group=40-60'})",3
+0.06837817822759812,"frozenset({'Subscription_group=25-36m', 'Payment_Method=Debit Card'})",2
+0.06813132559861762,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Subscription_group=37m+', 'Spend_group=40-60'})",4
+0.06813132559861762,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Churned=0', 'Payment_Method=Debit Card'})",4
+0.06813132559861762,"frozenset({'Gender=Female', 'Churned=1', 'Subscription_group=37m+', 'Spend_group=40-60'})",4
+0.06813132559861762,"frozenset({'Gender=Female', 'Churned=0', 'Region=South'})",3
+0.06813132559861762,"frozenset({'Subscription_group=<=12m', 'Discount_group=1-10'})",2
+0.06788447296963712,"frozenset({'Gender=Female', 'Churned=0', 'Spend_group=40-60', 'Activity_group=91-180d'})",4
+0.06788447296963712,"frozenset({'Activity_group=181-365d', 'Gender=Female', 'Region=South'})",3
+0.06788447296963712,"frozenset({'Discount_group=11-20', 'Subscription_group=25-36m', 'Churned=0'})",3
+0.06788447296963712,"frozenset({'Gender=Female', 'Churned=1', 'Tickets_group=3-5'})",3
+0.06788447296963712,"frozenset({'Payment_Method=Credit Card', 'Churned=1', 'Spend_group=20-40'})",3
+0.06788447296963712,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Subscription_group=25-36m'})",3
+0.06763762034065662,"frozenset({'Gender=Male', 'Churned=0', 'Region=South'})",3
+0.06739076771167613,"frozenset({'Payment_Method=PayPal', 'Discount_group=11-20', 'Churned=0', 'Tickets_group=1-2'})",4
+0.06739076771167613,"frozenset({'Gender=Female', 'Tickets_group=1-2', 'Payment_Method=PayPal', 'Spend_group=40-60'})",4
+0.06739076771167613,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Subscription_group=25-36m'})",3
+0.06739076771167613,"frozenset({'Payment_Method=Credit Card', 'Churned=0', 'Subscription_group=37m+'})",3
+0.06739076771167613,"frozenset({'Gender=Male', 'Region=South', 'Tickets_group=1-2'})",3
+0.06739076771167613,"frozenset({'Gender=Male', 'Spend_group=20-40', 'Tickets_group=1-2'})",3
+0.06689706245371513,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Churned=1', 'Payment_Method=PayPal'})",4
+0.06689706245371513,"frozenset({'Region=North', 'Spend_group=20-40'})",2
+0.06665020982473463,"frozenset({'Gender=Male', 'Payment_Method=PayPal', 'Churned=0', 'Spend_group=40-60'})",4
+0.06665020982473463,"frozenset({'Payment_Method=PayPal', 'Churned=1', 'Spend_group=20-40'})",3
+0.06665020982473463,"frozenset({'Gender=Female', 'Subscription_group=37m+', 'Payment_Method=PayPal'})",3
+0.06665020982473463,"frozenset({'Region=West', 'Activity_group=91-180d'})",2
+0.06665020982473463,"frozenset({'Discount_group=11-20', 'Spend_group=60-80'})",2
+0.06640335719575413,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Discount_group=11-20', 'Tickets_group=1-2'})",4
+0.06640335719575413,"frozenset({'Gender=Male', 'Tickets_group=1-2', 'Activity_group=91-180d'})",3
+0.06640335719575413,"frozenset({'Gender=Female', 'Region=East', 'Churned=0'})",3
+0.06640335719575413,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Subscription_group=13-24m'})",3
+0.06640335719575413,"frozenset({'Gender=Female', 'Subscription_group=13-24m', 'Spend_group=40-60'})",3
+0.06640335719575413,"frozenset({'Gender=Male', 'Subscription_group=13-24m', 'Spend_group=40-60'})",3
+0.06615650456677363,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Subscription_group=37m+', 'Gender=Female'})",4
+0.06615650456677363,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Subscription_group=37m+', 'Tickets_group=1-2'})",4
+0.06615650456677363,"frozenset({'Activity_group=181-365d', 'Spend_group=20-40', 'Gender=Female'})",3
+0.06615650456677363,"frozenset({'Subscription_group=13-24m', 'Churned=0', 'Tickets_group=1-2'})",3
+0.06590965193779313,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Spend_group=40-60', 'Tickets_group=1-2'})",4
+0.06590965193779313,"frozenset({'Gender=Female', 'Tickets_group=1-2', 'Churned=1', 'Spend_group=40-60'})",4
+0.06590965193779313,"frozenset({'Gender=Female', 'Payment_Method=Credit Card', 'Spend_group=40-60', 'Tickets_group=1-2'})",4
+0.06590965193779313,"frozenset({'Gender=Male', 'Subscription_group=37m+', 'Discount_group=1-10'})",3
+0.06590965193779313,"frozenset({'Gender=Male', 'Subscription_group=37m+', 'Payment_Method=Debit Card'})",3
+0.06590965193779313,"frozenset({'Activity_group=181-365d', 'Tickets_group=0'})",2
+0.06590965193779313,"frozenset({'Tickets_group=3-5', 'Subscription_group=13-24m'})",2
+0.06566279930881264,"frozenset({'Payment_Method=Credit Card', 'Subscription_group=<=12m'})",2
+0.06541594667983214,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Tickets_group=3-5', 'Spend_group=40-60'})",4
+0.06541594667983214,"frozenset({'Tickets_group=1-2', 'Discount_group=11-20', 'Region=South', 'Spend_group=40-60'})",4
+0.06541594667983214,"frozenset({'Payment_Method=PayPal', 'Churned=0', 'Discount_group=1-10'})",3
+0.06541594667983214,"frozenset({'Payment_Method=PayPal', 'Tickets_group=3-5', 'Spend_group=40-60'})",3
+0.06516909405085164,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Churned=1', 'Spend_group=20-40'})",4
+0.06516909405085164,"frozenset({'Gender=Male', 'Subscription_group=37m+', 'Churned=0', 'Discount_group=11-20'})",4
+0.06492224142187114,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Churned=1', 'Tickets_group=3-5'})",4
+0.06492224142187114,"frozenset({'Gender=Male', 'Payment_Method=Credit Card', 'Churned=0', 'Spend_group=40-60'})",4
+0.06492224142187114,"frozenset({'Activity_group=181-365d', 'Gender=Female', 'Region=North'})",3
+0.06492224142187114,"frozenset({'Gender=Male', 'Region=East', 'Tickets_group=1-2'})",3
+0.06492224142187114,"frozenset({'Churned=0', 'Spend_group=60-80'})",2
+0.06492224142187114,"frozenset({'Spend_group=20-40', 'Region=South'})",2
+0.06467538879289064,"frozenset({'Discount_group=11-20', 'Subscription_group=<=12m', 'Spend_group=20-40'})",3
+0.06467538879289064,"frozenset({'Gender=Female', 'Subscription_group=37m+', 'Payment_Method=Debit Card'})",3
+0.06442853616391014,"frozenset({'Activity_group=181-365d', 'Region=West', 'Gender=Female'})",3
+0.06442853616391014,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Spend_group=20-40'})",3
+0.06442853616391014,"frozenset({'Subscription_group=37m+', 'Churned=0', 'Activity_group=91-180d'})",3
+0.06442853616391014,"frozenset({'Gender=Female', 'Subscription_group=37m+', 'Discount_group=1-10'})",3
+0.06442853616391014,"frozenset({'Tickets_group=3-5', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",3
+0.06442853616391014,"frozenset({'Region=East', 'Activity_group=91-180d'})",2
+0.06442853616391014,"frozenset({'Subscription_group=25-36m', 'Tickets_group=3-5'})",2
+0.06418168353492965,"frozenset({'Spend_group=40-60', 'Activity_group=181-365d', 'Tickets_group=1-2', 'Gender=Male', 'Discount_group=11-20'})",5
+0.06418168353492965,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Churned=1', 'Discount_group=11-20'})",4
+0.06418168353492965,"frozenset({'Activity_group=181-365d', 'Region=East', 'Tickets_group=1-2'})",3
+0.06418168353492965,"frozenset({'Churned=1', 'Tickets_group=3-5', 'Spend_group=40-60'})",3
+0.06418168353492965,"frozenset({'Payment_Method=Credit Card', 'Discount_group=1-10', 'Tickets_group=1-2'})",3
+0.06418168353492965,"frozenset({'Discount_group=11-20', 'Subscription_group=25-36m', 'Tickets_group=1-2'})",3
+0.06393483090594915,"frozenset({'Spend_group=40-60', 'Activity_group=181-365d', 'Tickets_group=1-2', 'Discount_group=11-20', 'Churned=1'})",5
+0.06393483090594915,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Payment_Method=PayPal', 'Churned=0'})",4
+0.06393483090594915,"frozenset({'Discount_group=11-20', 'Churned=1', 'Subscription_group=25-36m'})",3
+0.06393483090594915,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Subscription_group=25-36m'})",3
+0.06393483090594915,"frozenset({'Payment_Method=PayPal', 'Subscription_group=25-36m'})",2
+0.06368797827696865,"frozenset({'Region=North', 'Discount_group=11-20', 'Churned=0', 'Spend_group=40-60'})",4
+0.06368797827696865,"frozenset({'Payment_Method=PayPal', 'Discount_group=11-20', 'Subscription_group=37m+', 'Spend_group=40-60'})",4
+0.06368797827696865,"frozenset({'Gender=Female', 'Payment_Method=Debit Card', 'Spend_group=40-60', 'Tickets_group=1-2'})",4
+0.06368797827696865,"frozenset({'Activity_group=181-365d', 'Subscription_group=37m+', 'Payment_Method=PayPal'})",3
+0.06368797827696865,"frozenset({'Churned=1', 'Discount_group=1-10', 'Spend_group=40-60'})",3
+0.06368797827696865,"frozenset({'Region=West', 'Churned=1', 'Spend_group=40-60'})",3
+0.06368797827696865,"frozenset({'Region=West', 'Spend_group=20-40'})",2
+0.06344112564798815,"frozenset({'Gender=Female', 'Tickets_group=1-2', 'Discount_group=1-10', 'Spend_group=40-60'})",4
+0.06344112564798815,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Region=East'})",3
+0.06344112564798815,"frozenset({'Region=North', 'Discount_group=11-20', 'Subscription_group=37m+'})",3
+0.06344112564798815,"frozenset({'Region=West', 'Subscription_group=37m+', 'Discount_group=11-20'})",3
+0.06344112564798815,"frozenset({'Gender=Male', 'Region=North', 'Tickets_group=1-2'})",3
+0.06344112564798815,"frozenset({'Subscription_group=37m+', 'Activity_group=31-90d'})",2
+0.06344112564798815,"frozenset({'Spend_group=20-40', 'Activity_group=91-180d'})",2
+0.06319427301900765,"frozenset({'Gender=Male', 'Churned=1', 'Subscription_group=37m+', 'Spend_group=40-60'})",4
+0.06319427301900765,"frozenset({'Activity_group=181-365d', 'Subscription_group=37m+', 'Payment_Method=Debit Card'})",3
+0.06319427301900765,"frozenset({'Payment_Method=Credit Card', 'Churned=0', 'Discount_group=1-10'})",3
+0.06319427301900765,"frozenset({'Payment_Method=PayPal', 'Discount_group=1-10', 'Tickets_group=1-2'})",3
+0.06319427301900765,"frozenset({'Gender=Female', 'Payment_Method=Credit Card', 'Subscription_group=37m+'})",3
+0.06319427301900765,"frozenset({'Gender=Male', 'Tickets_group=0'})",2
+0.06294742039002715,"frozenset({'Discount_group=11-20', 'Subscription_group=25-36m', 'Churned=0', 'Spend_group=40-60'})",4
+0.06294742039002715,"frozenset({'Gender=Female', 'Subscription_group=37m+', 'Churned=0', 'Tickets_group=1-2'})",4
+0.06294742039002715,"frozenset({'Gender=Female', 'Payment_Method=Credit Card', 'Discount_group=11-20', 'Tickets_group=1-2'})",4
+0.06270056776104665,"frozenset({'Activity_group=181-365d', 'Region=West', 'Discount_group=11-20', 'Spend_group=40-60'})",4
+0.06270056776104665,"frozenset({'Churned=0', 'Activity_group=31-90d', 'Tickets_group=1-2'})",3
+0.06270056776104665,"frozenset({'Gender=Female', 'Churned=0', 'Subscription_group=13-24m'})",3
+0.06270056776104665,"frozenset({'Gender=Male', 'Churned=0', 'Region=North'})",3
+0.06270056776104665,"frozenset({'Churned=1', 'Subscription_group=<=12m', 'Discount_group=11-20'})",3
+0.06270056776104665,"frozenset({'Gender=Female', 'Spend_group=20-40', 'Tickets_group=1-2'})",3
+0.06270056776104665,"frozenset({'Region=West', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",3
+0.06270056776104665,"frozenset({'Payment_Method=PayPal', 'Region=West', 'Spend_group=40-60'})",3
+0.06245371513206616,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Churned=1', 'Payment_Method=Debit Card'})",4
+0.06245371513206616,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Payment_Method=PayPal', 'Tickets_group=1-2'})",4
+0.06245371513206616,"frozenset({'Tickets_group=1-2', 'Discount_group=11-20', 'Churned=0', 'Activity_group=91-180d'})",4
+0.06245371513206616,"frozenset({'Discount_group=1-10', 'Payment_Method=Debit Card', 'Tickets_group=1-2'})",3
+0.06245371513206616,"frozenset({'Gender=Female', 'Tickets_group=0'})",2
+0.06245371513206616,"frozenset({'Region=West', 'Subscription_group=25-36m'})",2
+0.06220686250308566,"frozenset({'Gender=Male', 'Churned=0', 'Spend_group=40-60', 'Activity_group=91-180d'})",4
+0.06220686250308566,"frozenset({'Tickets_group=1-2', 'Region=East', 'Discount_group=11-20', 'Spend_group=40-60'})",4
+0.06220686250308566,"frozenset({'Activity_group=181-365d', 'Subscription_group=37m+', 'Discount_group=1-10'})",3
+0.06220686250308566,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Region=South'})",3
+0.06196000987410516,"frozenset({'Activity_group=181-365d', 'Payment_Method=PayPal', 'Gender=Female', 'Spend_group=40-60'})",4
+0.06196000987410516,"frozenset({'Gender=Female', 'Tickets_group=3-5', 'Churned=0', 'Spend_group=40-60'})",4
+0.06196000987410516,"frozenset({'Tickets_group=1-2', 'Region=East', 'Churned=0', 'Spend_group=40-60'})",4
+0.06196000987410516,"frozenset({'Gender=Female', 'Region=West', 'Discount_group=11-20', 'Spend_group=40-60'})",4
+0.06196000987410516,"frozenset({'Gender=Male', 'Payment_Method=Debit Card', 'Spend_group=40-60', 'Tickets_group=1-2'})",4
+0.06196000987410516,"frozenset({'Discount_group=1-10', 'Churned=0', 'Payment_Method=Debit Card'})",3
+0.06196000987410516,"frozenset({'Payment_Method=PayPal', 'Region=West', 'Discount_group=11-20'})",3
+0.06196000987410516,"frozenset({'Discount_group=11-20', 'Region=East', 'Subscription_group=37m+'})",3
+0.06196000987410516,"frozenset({'Tickets_group=1-2', 'Subscription_group=<=12m', 'Spend_group=40-60'})",3
+0.06171315724512466,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Churned=0', 'Spend_group=40-60'})",4
+0.06171315724512466,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Tickets_group=3-5', 'Spend_group=40-60'})",4
+0.06171315724512466,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Churned=1', 'Spend_group=20-40'})",4
+0.06171315724512466,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Payment_Method=PayPal', 'Tickets_group=1-2'})",4
+0.06171315724512466,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Subscription_group=37m+'})",3
+0.06171315724512466,"frozenset({'Activity_group=181-365d', 'Subscription_group=<=12m', 'Tickets_group=1-2'})",3
+0.06171315724512466,"frozenset({'Tickets_group=3-5', 'Discount_group=1-10', 'Spend_group=40-60'})",3
+0.06171315724512466,"frozenset({'Subscription_group=<=12m', 'Tickets_group=3-5'})",2
+0.06146630461614416,"frozenset({'Tickets_group=1-2', 'Churned=0', 'Region=South', 'Spend_group=40-60'})",4
+0.06146630461614416,"frozenset({'Churned=1', 'Spend_group=20-40', 'Subscription_group=13-24m'})",3
+0.061219451987163664,"frozenset({'Discount_group=11-20', 'Churned=1', 'Subscription_group=13-24m'})",3
+0.061219451987163664,"frozenset({'Spend_group=20-40', 'Discount_group=1-10', 'Tickets_group=1-2'})",3
+0.061219451987163664,"frozenset({'Region=East', 'Spend_group=20-40'})",2
+0.060972599358183166,"frozenset({'Gender=Male', 'Payment_Method=Credit Card', 'Discount_group=11-20', 'Tickets_group=1-2'})",4
+0.060972599358183166,"frozenset({'Discount_group=11-20', 'Subscription_group=37m+', 'Activity_group=91-180d'})",3
+0.060972599358183166,"frozenset({'Discount_group=11-20', 'Subscription_group=37m+', 'Spend_group=60-80'})",3
+0.060972599358183166,"frozenset({'Gender=Female', 'Subscription_group=13-24m', 'Tickets_group=1-2'})",3
+0.060972599358183166,"frozenset({'Gender=Male', 'Subscription_group=37m+', 'Payment_Method=PayPal'})",3
+0.06072574672920267,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Churned=0', 'Tickets_group=1-2'})",4
+0.06072574672920267,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Payment_Method=PayPal', 'Spend_group=40-60'})",4
+0.06072574672920267,"frozenset({'Activity_group=181-365d', 'Tickets_group=1-2', 'Discount_group=1-10', 'Spend_group=40-60'})",4
+0.06072574672920267,"frozenset({'Activity_group=181-365d', 'Region=West', 'Churned=0'})",3
+0.06072574672920267,"frozenset({'Activity_group=181-365d', 'Spend_group=20-40', 'Tickets_group=1-2'})",3
+0.06072574672920267,"frozenset({'Region=North', 'Churned=1', 'Tickets_group=1-2'})",3
+0.06072574672920267,"frozenset({'Payment_Method=Debit Card', 'Region=South', 'Spend_group=40-60'})",3
+0.06047889410022217,"frozenset({'Subscription_group=37m+', 'Churned=0', 'Discount_group=1-10', 'Spend_group=40-60'})",4
+0.06047889410022217,"frozenset({'Gender=Female', 'Payment_Method=PayPal', 'Discount_group=1-10'})",3
+0.06047889410022217,"frozenset({'Region=North', 'Activity_group=91-180d'})",2
+0.06023204147124167,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Gender=Male', 'Subscription_group=37m+'})",4
+0.06023204147124167,"frozenset({'Activity_group=181-365d', 'Payment_Method=Debit Card', 'Spend_group=40-60', 'Tickets_group=1-2'})",4
+0.06023204147124167,"frozenset({'Gender=Female', 'Payment_Method=Credit Card', 'Churned=0', 'Discount_group=11-20'})",4
+0.06023204147124167,"frozenset({'Gender=Male', 'Subscription_group=37m+', 'Churned=0', 'Tickets_group=1-2'})",4
+0.06023204147124167,"frozenset({'Discount_group=11-20', 'Subscription_group=37m+', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",4
+0.06023204147124167,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Subscription_group=25-36m'})",3
+0.06023204147124167,"frozenset({'Subscription_group=37m+', 'Churned=0', 'Spend_group=60-80'})",3
+0.06023204147124167,"frozenset({'Gender=Female', 'Churned=1', 'Region=North'})",3
+0.06023204147124167,"frozenset({'Gender=Male', 'Region=West', 'Churned=1'})",3
+0.06023204147124167,"frozenset({'Churned=1', 'Region=South', 'Tickets_group=1-2'})",3
+0.05998518884226117,"frozenset({'Activity_group=181-365d', 'Churned=0', 'Discount_group=1-10', 'Spend_group=40-60'})",4
+0.05998518884226117,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Region=South', 'Spend_group=40-60'})",4
+0.05998518884226117,"frozenset({'Activity_group=91-180d', 'Discount_group=11-20', 'Spend_group=40-60', 'Tickets_group=1-2'})",4
+0.05998518884226117,"frozenset({'Gender=Male', 'Tickets_group=3-5', 'Churned=0', 'Spend_group=40-60'})",4
+0.05998518884226117,"frozenset({'Gender=Male', 'Tickets_group=1-2', 'Payment_Method=PayPal', 'Spend_group=40-60'})",4
+0.05998518884226117,"frozenset({'Tickets_group=1-2', 'Activity_group=31-90d', 'Spend_group=40-60'})",3
+0.05998518884226117,"frozenset({'Discount_group=11-20', 'Subscription_group=37m+', 'Region=South'})",3
+0.05998518884226117,"frozenset({'Discount_group=11-20', 'Spend_group=20-40', 'Tickets_group=3-5'})",3
+0.05998518884226117,"frozenset({'Gender=Male', 'Subscription_group=<=12m', 'Tickets_group=1-2'})",3
+0.059738336213280674,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Spend_group=40-60', 'Activity_group=91-180d'})",4
+0.059738336213280674,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Payment_Method=Debit Card', 'Tickets_group=1-2'})",4
+0.059738336213280674,"frozenset({'Tickets_group=0', 'Churned=0', 'Spend_group=40-60'})",3
+0.059738336213280674,"frozenset({'Gender=Female', 'Spend_group=20-40', 'Discount_group=1-10'})",3
+0.059491483584300175,"frozenset({'Gender=Female', 'Region=West', 'Churned=0', 'Spend_group=40-60'})",4
+0.059491483584300175,"frozenset({'Discount_group=11-20', 'Churned=1', 'Subscription_group=37m+', 'Tickets_group=1-2'})",4
+0.05924463095531968,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Subscription_group=37m+', 'Tickets_group=1-2'})",4
+0.05924463095531968,"frozenset({'Activity_group=181-365d', 'Subscription_group=13-24m', 'Tickets_group=1-2'})",3
+0.05924463095531968,"frozenset({'Discount_group=11-20', 'Activity_group=31-90d', 'Tickets_group=1-2'})",3
+0.05924463095531968,"frozenset({'Churned=1', 'Subscription_group=37m+', 'Payment_Method=Debit Card'})",3
+0.05899777832633918,"frozenset({'Discount_group=11-20', 'Subscription_group=<=12m', 'Churned=0', 'Spend_group=40-60'})",4
+0.05899777832633918,"frozenset({'Payment_Method=PayPal', 'Discount_group=11-20', 'Churned=1', 'Spend_group=40-60'})",4
+0.05899777832633918,"frozenset({'Gender=Male', 'Tickets_group=1-2', 'Churned=1', 'Spend_group=40-60'})",4
+0.05899777832633918,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Tickets_group=3-5', 'Spend_group=40-60'})",4
+0.05899777832633918,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Subscription_group=<=12m'})",3
+0.05899777832633918,"frozenset({'Gender=Female', 'Payment_Method=Credit Card', 'Discount_group=1-10'})",3
+0.05899777832633918,"frozenset({'Payment_Method=Credit Card', 'Tickets_group=3-5', 'Discount_group=11-20'})",3
+0.05899777832633918,"frozenset({'Region=West', 'Discount_group=11-20', 'Payment_Method=Debit Card'})",3
+0.05875092569735868,"frozenset({'Region=West', 'Discount_group=11-20', 'Churned=0', 'Tickets_group=1-2'})",4
+0.05875092569735868,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Payment_Method=PayPal', 'Tickets_group=1-2'})",4
+0.05875092569735868,"frozenset({'Region=West', 'Churned=1', 'Tickets_group=1-2'})",3
+0.058504073068378175,"frozenset({'Spend_group=40-60', 'Activity_group=181-365d', 'Gender=Female', 'Churned=0', 'Discount_group=11-20'})",5
+0.058504073068378175,"frozenset({'Spend_group=40-60', 'Activity_group=181-365d', 'Gender=Male', 'Discount_group=11-20', 'Churned=1'})",5
+0.058504073068378175,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Region=South', 'Spend_group=40-60'})",4
+0.058504073068378175,"frozenset({'Activity_group=181-365d', 'Tickets_group=3-5', 'Churned=0'})",3
+0.058504073068378175,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Region=East'})",3
+0.058504073068378175,"frozenset({'Payment_Method=PayPal', 'Churned=0', 'Activity_group=91-180d'})",3
+0.058257220439397676,"frozenset({'Spend_group=40-60', 'Activity_group=181-365d', 'Subscription_group=37m+', 'Discount_group=11-20', 'Churned=1'})",5
+0.058257220439397676,"frozenset({'Spend_group=40-60', 'Tickets_group=1-2', 'Churned=0', 'Payment_Method=Debit Card', 'Discount_group=11-20'})",5
+0.058257220439397676,"frozenset({'Subscription_group=13-24m', 'Tickets_group=1-2', 'Churned=0', 'Spend_group=40-60'})",4
+0.058257220439397676,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Churned=1', 'Spend_group=20-40'})",4
+0.058257220439397676,"frozenset({'Subscription_group=37m+', 'Tickets_group=3-5', 'Churned=0'})",3
+0.058257220439397676,"frozenset({'Gender=Female', 'Subscription_group=<=12m', 'Tickets_group=1-2'})",3
+0.058257220439397676,"frozenset({'Activity_group=31-90d', 'Payment_Method=Debit Card'})",2
+0.05801036781041718,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Churned=0', 'Payment_Method=Debit Card'})",4
+0.05801036781041718,"frozenset({'Tickets_group=1-2', 'Subscription_group=37m+', 'Discount_group=1-10', 'Spend_group=40-60'})",4
+0.05801036781041718,"frozenset({'Activity_group=181-365d', 'Region=East', 'Gender=Female'})",3
+0.05801036781041718,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Region=North'})",3
+0.05801036781041718,"frozenset({'Tickets_group=3-5', 'Churned=0', 'Discount_group=1-10'})",3
+0.05801036781041718,"frozenset({'Gender=Male', 'Discount_group=1-10', 'Payment_Method=Debit Card'})",3
+0.05801036781041718,"frozenset({'Discount_group=11-20', 'Payment_Method=Debit Card', 'Region=South'})",3
+0.05801036781041718,"frozenset({'Subscription_group=<=12m', 'Region=East'})",2
+0.05776351518143668,"frozenset({'Activity_group=181-365d', 'Subscription_group=37m+', 'Churned=0', 'Spend_group=40-60'})",4
+0.05776351518143668,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Payment_Method=PayPal', 'Gender=Female'})",4
+0.05776351518143668,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",4
+0.05776351518143668,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Payment_Method=Debit Card', 'Tickets_group=1-2'})",4
+0.05776351518143668,"frozenset({'Gender=Male', 'Region=West', 'Discount_group=11-20', 'Spend_group=40-60'})",4
+0.05776351518143668,"frozenset({'Payment_Method=Credit Card', 'Discount_group=11-20', 'Subscription_group=37m+', 'Spend_group=40-60'})",4
+0.05776351518143668,"frozenset({'Region=North', 'Tickets_group=1-2', 'Discount_group=11-20', 'Spend_group=40-60'})",4
+0.05776351518143668,"frozenset({'Gender=Female', 'Subscription_group=<=12m', 'Churned=0'})",3
+0.05776351518143668,"frozenset({'Subscription_group=25-36m', 'Churned=0', 'Tickets_group=1-2'})",3
+0.05776351518143668,"frozenset({'Churned=1', 'Subscription_group=37m+', 'Discount_group=1-10'})",3
+0.05776351518143668,"frozenset({'Gender=Female', 'Region=West', 'Churned=1'})",3
+0.05776351518143668,"frozenset({'Churned=1', 'Region=South', 'Spend_group=40-60'})",3
+0.05776351518143668,"frozenset({'Region=West', 'Discount_group=1-10', 'Spend_group=40-60'})",3
+0.05776351518143668,"frozenset({'Gender=Male', 'Payment_Method=Credit Card', 'Subscription_group=37m+'})",3
+0.05776351518143668,"frozenset({'Discount_group=1-10', 'Activity_group=31-90d'})",2
+0.05751666255245618,"frozenset({'Spend_group=40-60', 'Activity_group=181-365d', 'Gender=Female', 'Discount_group=11-20', 'Churned=1'})",5
+0.05751666255245618,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Churned=1', 'Subscription_group=37m+'})",4
+0.05751666255245618,"frozenset({'Churned=0', 'Discount_group=1-10', 'Activity_group=91-180d'})",3
+0.05751666255245618,"frozenset({'Gender=Male', 'Subscription_group=<=12m', 'Churned=0'})",3
+0.05726980992347568,"frozenset({'Activity_group=181-365d', 'Churned=0', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",4
+0.05726980992347568,"frozenset({'Gender=Male', 'Payment_Method=Credit Card', 'Churned=0', 'Discount_group=11-20'})",4
+0.05726980992347568,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Subscription_group=13-24m'})",3
+0.05726980992347568,"frozenset({'Payment_Method=PayPal', 'Tickets_group=3-5', 'Churned=0'})",3
+0.057022957294495184,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Gender=Male', 'Tickets_group=3-5'})",4
+0.057022957294495184,"frozenset({'Gender=Male', 'Tickets_group=1-2', 'Discount_group=1-10', 'Spend_group=40-60'})",4
+0.057022957294495184,"frozenset({'Payment_Method=PayPal', 'Tickets_group=1-2', 'Subscription_group=37m+', 'Spend_group=40-60'})",4
+0.057022957294495184,"frozenset({'Gender=Male', 'Churned=0', 'Subscription_group=13-24m'})",3
+0.057022957294495184,"frozenset({'Region=West', 'Churned=0', 'Subscription_group=37m+'})",3
+0.057022957294495184,"frozenset({'Discount_group=11-20', 'Tickets_group=0', 'Spend_group=40-60'})",3
+0.056776104665514686,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Discount_group=11-20', 'Gender=Female'})",4
+0.056776104665514686,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Gender=Male', 'Discount_group=11-20'})",4
+0.056776104665514686,"frozenset({'Gender=Male', 'Payment_Method=Credit Card', 'Spend_group=40-60', 'Tickets_group=1-2'})",4
+0.056776104665514686,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Activity_group=31-90d'})",3
+0.056776104665514686,"frozenset({'Activity_group=91-180d', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",3
+0.056776104665514686,"frozenset({'Gender=Female', 'Churned=1', 'Region=South'})",3
+0.056776104665514686,"frozenset({'Gender=Male', 'Churned=1', 'Region=South'})",3
+0.05652925203653419,"frozenset({'Spend_group=40-60', 'Activity_group=181-365d', 'Churned=0', 'Gender=Male', 'Discount_group=11-20'})",5
+0.05652925203653419,"frozenset({'Spend_group=40-60', 'Activity_group=181-365d', 'Tickets_group=1-2', 'Gender=Female', 'Churned=0'})",5
+0.05652925203653419,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Gender=Male', 'Payment_Method=Debit Card'})",4
+0.05652925203653419,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Gender=Female', 'Spend_group=40-60'})",4
+0.05652925203653419,"frozenset({'Gender=Female', 'Payment_Method=Credit Card', 'Churned=0', 'Tickets_group=1-2'})",4
+0.05652925203653419,"frozenset({'Region=North', 'Tickets_group=1-2', 'Churned=0', 'Spend_group=40-60'})",4
+0.05652925203653419,"frozenset({'Activity_group=181-365d', 'Churned=0', 'Region=South'})",3
+0.05652925203653419,"frozenset({'Activity_group=181-365d', 'Discount_group=1-10', 'Payment_Method=Debit Card'})",3
+0.05652925203653419,"frozenset({'Gender=Male', 'Tickets_group=3-5', 'Subscription_group=37m+'})",3
+0.05628239940755369,"frozenset({'Spend_group=40-60', 'Tickets_group=1-2', 'Gender=Female', 'Subscription_group=37m+', 'Discount_group=11-20'})",5
+0.05628239940755369,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Payment_Method=Debit Card', 'Tickets_group=1-2'})",4
+0.05628239940755369,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Region=North', 'Spend_group=40-60'})",4
+0.05628239940755369,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Churned=0', 'Activity_group=91-180d'})",4
+0.05628239940755369,"frozenset({'Discount_group=11-20', 'Churned=1', 'Spend_group=20-40', 'Tickets_group=1-2'})",4
+0.05628239940755369,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Region=South', 'Spend_group=40-60'})",4
+0.05628239940755369,"frozenset({'Activity_group=181-365d', 'Spend_group=20-40', 'Discount_group=1-10'})",3
+0.05628239940755369,"frozenset({'Activity_group=181-365d', 'Subscription_group=<=12m', 'Gender=Female'})",3
+0.05628239940755369,"frozenset({'Churned=1', 'Region=East', 'Tickets_group=1-2'})",3
+0.05628239940755369,"frozenset({'Gender=Female', 'Discount_group=1-10', 'Payment_Method=Debit Card'})",3
+0.05628239940755369,"frozenset({'Gender=Male', 'Tickets_group=3-5', 'Payment_Method=Debit Card'})",3
+0.05628239940755369,"frozenset({'Payment_Method=Credit Card', 'Tickets_group=3-5', 'Spend_group=40-60'})",3
+0.05628239940755369,"frozenset({'Payment_Method=PayPal', 'Activity_group=31-90d'})",2
+0.05628239940755369,"frozenset({'Region=West', 'Subscription_group=13-24m'})",2
+0.05603554677857319,"frozenset({'Payment_Method=Credit Card', 'Spend_group=40-60', 'Tickets_group=1-2', 'Churned=0', 'Discount_group=11-20'})",5
+0.05603554677857319,"frozenset({'Activity_group=181-365d', 'Payment_Method=PayPal', 'Churned=0', 'Spend_group=40-60'})",4
+0.05603554677857319,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Gender=Male', 'Payment_Method=PayPal'})",4
+0.05603554677857319,"frozenset({'Activity_group=181-365d', 'Subscription_group=37m+', 'Gender=Female', 'Tickets_group=1-2'})",4
+0.05603554677857319,"frozenset({'Gender=Male', 'Region=East', 'Churned=0', 'Spend_group=40-60'})",4
+0.05603554677857319,"frozenset({'Activity_group=181-365d', 'Payment_Method=PayPal', 'Discount_group=1-10'})",3
+0.05603554677857319,"frozenset({'Activity_group=181-365d', 'Subscription_group=<=12m', 'Spend_group=20-40'})",3
+0.05603554677857319,"frozenset({'Gender=Male', 'Activity_group=31-90d', 'Spend_group=40-60'})",3
+0.05603554677857319,"frozenset({'Payment_Method=PayPal', 'Churned=1', 'Subscription_group=37m+'})",3
+0.05603554677857319,"frozenset({'Subscription_group=<=12m', 'Spend_group=20-40', 'Tickets_group=1-2'})",3
+0.05603554677857319,"frozenset({'Churned=1', 'Activity_group=31-90d'})",2
+0.05603554677857319,"frozenset({'Region=South', 'Activity_group=91-180d'})",2
+0.05578869414959269,"frozenset({'Spend_group=40-60', 'Activity_group=181-365d', 'Tickets_group=1-2', 'Subscription_group=37m+', 'Discount_group=11-20'})",5
+0.05578869414959269,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Discount_group=1-10'})",3
+0.05578869414959269,"frozenset({'Payment_Method=Credit Card', 'Discount_group=11-20', 'Activity_group=91-180d'})",3
+0.055541841520612194,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Region=East', 'Spend_group=40-60'})",4
+0.055541841520612194,"frozenset({'Churned=0', 'Payment_Method=Debit Card', 'Activity_group=91-180d'})",3
+0.055541841520612194,"frozenset({'Discount_group=11-20', 'Payment_Method=Debit Card', 'Activity_group=91-180d'})",3
+0.055541841520612194,"frozenset({'Region=West', 'Subscription_group=37m+', 'Tickets_group=1-2'})",3
+0.055294988891631695,"frozenset({'Activity_group=181-365d', 'Region=West', 'Tickets_group=1-2', 'Spend_group=40-60'})",4
+0.055294988891631695,"frozenset({'Tickets_group=1-2', 'Subscription_group=37m+', 'Activity_group=91-180d'})",3
+0.055294988891631695,"frozenset({'Payment_Method=Credit Card', 'Region=East', 'Discount_group=11-20'})",3
+0.0550481362626512,"frozenset({'Region=North', 'Churned=1', 'Spend_group=40-60'})",3
+0.0550481362626512,"frozenset({'Payment_Method=Credit Card', 'Region=East', 'Spend_group=40-60'})",3
+0.0548012836336707,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Payment_Method=PayPal', 'Spend_group=40-60'})",4
+0.0548012836336707,"frozenset({'Gender=Female', 'Churned=0', 'Region=South', 'Spend_group=40-60'})",4
+0.0548012836336707,"frozenset({'Gender=Female', 'Subscription_group=13-24m', 'Churned=0', 'Spend_group=40-60'})",4
+0.0548012836336707,"frozenset({'Gender=Male', 'Churned=0', 'Payment_Method=Debit Card', 'Tickets_group=1-2'})",4
+0.0548012836336707,"frozenset({'Discount_group=11-20', 'Churned=1', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",4
+0.0548012836336707,"frozenset({'Gender=Female', 'Churned=0', 'Activity_group=31-90d'})",3
+0.0548012836336707,"frozenset({'Tickets_group=3-5', 'Churned=0', 'Payment_Method=Debit Card'})",3
+0.0548012836336707,"frozenset({'Gender=Male', 'Payment_Method=PayPal', 'Discount_group=1-10'})",3
+0.0548012836336707,"frozenset({'Gender=Male', 'Subscription_group=<=12m', 'Spend_group=20-40'})",3
+0.0548012836336707,"frozenset({'Gender=Male', 'Subscription_group=13-24m', 'Tickets_group=1-2'})",3
+0.0545544310046902,"frozenset({'Spend_group=40-60', 'Tickets_group=1-2', 'Churned=0', 'Subscription_group=37m+', 'Discount_group=11-20'})",5
+0.0545544310046902,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Subscription_group=37m+', 'Gender=Female'})",4
+0.0545544310046902,"frozenset({'Gender=Female', 'Churned=0', 'Discount_group=1-10', 'Tickets_group=1-2'})",4
+0.0545544310046902,"frozenset({'Activity_group=181-365d', 'Subscription_group=<=12m', 'Spend_group=40-60'})",3
+0.0545544310046902,"frozenset({'Gender=Male', 'Churned=0', 'Activity_group=31-90d'})",3
+0.0545544310046902,"frozenset({'Gender=Female', 'Tickets_group=3-5', 'Discount_group=1-10'})",3
+0.0545544310046902,"frozenset({'Region=North', 'Subscription_group=37m+', 'Tickets_group=1-2'})",3
+0.0545544310046902,"frozenset({'Activity_group=<=30d', 'Churned=0'})",2
+0.0543075783757097,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Gender=Male', 'Spend_group=20-40'})",4
+0.0543075783757097,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Gender=Female', 'Payment_Method=Debit Card'})",4
+0.0543075783757097,"frozenset({'Gender=Female', 'Payment_Method=PayPal', 'Churned=0', 'Tickets_group=1-2'})",4
+0.0543075783757097,"frozenset({'Gender=Male', 'Region=West', 'Churned=0', 'Spend_group=40-60'})",4
+0.0543075783757097,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Subscription_group=<=12m'})",3
+0.0543075783757097,"frozenset({'Region=North', 'Payment_Method=Credit Card', 'Discount_group=11-20'})",3
+0.0543075783757097,"frozenset({'Region=North', 'Discount_group=11-20', 'Payment_Method=Debit Card'})",3
+0.0543075783757097,"frozenset({'Gender=Female', 'Tickets_group=3-5', 'Payment_Method=PayPal'})",3
+0.0543075783757097,"frozenset({'Payment_Method=PayPal', 'Region=East', 'Spend_group=40-60'})",3
+0.0543075783757097,"frozenset({'Payment_Method=PayPal', 'Region=North', 'Spend_group=40-60'})",3
+0.0540607257467292,"frozenset({'Spend_group=40-60', 'Tickets_group=1-2', 'Churned=0', 'Payment_Method=PayPal', 'Discount_group=11-20'})",5
+0.0540607257467292,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Spend_group=20-40', 'Gender=Female'})",4
+0.0540607257467292,"frozenset({'Activity_group=181-365d', 'Discount_group=1-10', 'Gender=Female', 'Spend_group=40-60'})",4
+0.0540607257467292,"frozenset({'Discount_group=11-20', 'Churned=0', 'Activity_group=31-90d', 'Spend_group=40-60'})",4
+0.0540607257467292,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Churned=1', 'Payment_Method=PayPal'})",4
+0.0540607257467292,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Churned=1', 'Tickets_group=3-5'})",4
+0.0540607257467292,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Region=East', 'Spend_group=40-60'})",4
+0.0540607257467292,"frozenset({'Activity_group=181-365d', 'Spend_group=20-40', 'Tickets_group=3-5'})",3
+0.0540607257467292,"frozenset({'Gender=Male', 'Subscription_group=25-36m', 'Churned=0'})",3
+0.0540607257467292,"frozenset({'Gender=Male', 'Churned=1', 'Region=East'})",3
+0.053813873117748705,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Gender=Male', 'Spend_group=40-60'})",4
+0.053813873117748705,"frozenset({'Tickets_group=1-2', 'Subscription_group=25-36m', 'Churned=0', 'Spend_group=40-60'})",4
+0.053813873117748705,"frozenset({'Tickets_group=1-2', 'Discount_group=11-20', 'Subscription_group=13-24m', 'Spend_group=40-60'})",4
+0.053813873117748705,"frozenset({'Activity_group=181-365d', 'Subscription_group=13-24m', 'Gender=Female'})",3
+0.053813873117748705,"frozenset({'Discount_group=11-20', 'Churned=1', 'Activity_group=91-180d'})",3
+0.053813873117748705,"frozenset({'Payment_Method=Credit Card', 'Activity_group=91-180d', 'Spend_group=40-60'})",3
+0.053567020488768206,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Gender=Male', 'Subscription_group=37m+'})",4
+0.053567020488768206,"frozenset({'Gender=Female', 'Churned=0', 'Region=North', 'Spend_group=40-60'})",4
+0.053567020488768206,"frozenset({'Gender=Male', 'Churned=0', 'Region=South', 'Spend_group=40-60'})",4
+0.053567020488768206,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Churned=1', 'Subscription_group=37m+'})",4
+0.053567020488768206,"frozenset({'Payment_Method=Credit Card', 'Subscription_group=37m+', 'Spend_group=40-60', 'Tickets_group=1-2'})",4
+0.053567020488768206,"frozenset({'Tickets_group=3-5', 'Churned=0', 'Activity_group=91-180d'})",3
+0.053567020488768206,"frozenset({'Payment_Method=Credit Card', 'Churned=1', 'Subscription_group=37m+'})",3
+0.053567020488768206,"frozenset({'Region=West', 'Tickets_group=3-5', 'Discount_group=11-20'})",3
+0.053567020488768206,"frozenset({'Spend_group=20-40', 'Churned=0'})",2
+0.05332016785978771,"frozenset({'Activity_group=181-365d', 'Subscription_group=37m+', 'Churned=0', 'Discount_group=11-20'})",4
+0.05332016785978771,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Payment_Method=PayPal', 'Churned=0'})",4
+0.05332016785978771,"frozenset({'Discount_group=11-20', 'Region=East', 'Churned=0', 'Tickets_group=1-2'})",4
+0.05332016785978771,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Region=North', 'Spend_group=40-60'})",4
+0.05332016785978771,"frozenset({'Discount_group=1-10', 'Spend_group=40-60', 'Activity_group=91-180d'})",3
+0.05332016785978771,"frozenset({'Region=North', 'Churned=1', 'Spend_group=20-40'})",3
+0.05332016785978771,"frozenset({'Payment_Method=Credit Card', 'Discount_group=11-20', 'Region=South'})",3
+0.05332016785978771,"frozenset({'Gender=Female', 'Tickets_group=3-5', 'Subscription_group=37m+'})",3
+0.05332016785978771,"frozenset({'Subscription_group=25-36m', 'Activity_group=91-180d'})",2
+0.05307331523080721,"frozenset({'Spend_group=40-60', 'Churned=0', 'Payment_Method=Debit Card', 'Gender=Male', 'Discount_group=11-20'})",5
+0.05307331523080721,"frozenset({'Activity_group=181-365d', 'Region=West', 'Churned=1', 'Discount_group=11-20'})",4
+0.05307331523080721,"frozenset({'Payment_Method=PayPal', 'Discount_group=11-20', 'Churned=1', 'Tickets_group=1-2'})",4
+0.05307331523080721,"frozenset({'Gender=Male', 'Churned=1', 'Spend_group=20-40', 'Tickets_group=1-2'})",4
+0.05307331523080721,"frozenset({'Gender=Male', 'Region=West', 'Tickets_group=1-2', 'Spend_group=40-60'})",4
+0.05307331523080721,"frozenset({'Subscription_group=37m+', 'Payment_Method=Debit Card', 'Spend_group=40-60', 'Tickets_group=1-2'})",4
+0.05307331523080721,"frozenset({'Activity_group=181-365d', 'Region=East', 'Churned=0'})",3
+0.05307331523080721,"frozenset({'Activity_group=181-365d', 'Tickets_group=3-5', 'Payment_Method=Debit Card'})",3
+0.05307331523080721,"frozenset({'Gender=Female', 'Activity_group=31-90d', 'Spend_group=40-60'})",3
+0.05307331523080721,"frozenset({'Discount_group=11-20', 'Churned=0', 'Spend_group=60-80'})",3
+0.05307331523080721,"frozenset({'Region=North', 'Subscription_group=37m+', 'Churned=0'})",3
+0.05307331523080721,"frozenset({'Region=North', 'Discount_group=1-10', 'Spend_group=40-60'})",3
+0.05307331523080721,"frozenset({'Payment_Method=Credit Card', 'Region=West', 'Discount_group=11-20'})",3
+0.05307331523080721,"frozenset({'Discount_group=11-20', 'Region=East', 'Payment_Method=Debit Card'})",3
+0.05307331523080721,"frozenset({'Payment_Method=PayPal', 'Discount_group=11-20', 'Region=South'})",3
+0.05307331523080721,"frozenset({'Gender=Female', 'Subscription_group=<=12m', 'Spend_group=20-40'})",3
+0.05307331523080721,"frozenset({'Gender=Male', 'Subscription_group=25-36m', 'Tickets_group=1-2'})",3
+0.05307331523080721,"frozenset({'Payment_Method=Credit Card', 'Region=South', 'Spend_group=40-60'})",3
+0.05307331523080721,"frozenset({'Subscription_group=37m+', 'Region=South', 'Tickets_group=1-2'})",3
+0.05307331523080721,"frozenset({'Subscription_group=<=12m', 'Region=South'})",2
+0.05282646260182671,"frozenset({'Discount_group=11-20', 'Churned=0', 'Region=South', 'Tickets_group=1-2'})",4
+0.05282646260182671,"frozenset({'Payment_Method=Credit Card', 'Churned=1', 'Discount_group=11-20', 'Tickets_group=1-2'})",4
+0.05282646260182671,"frozenset({'Gender=Male', 'Churned=1', 'Region=North'})",3
+0.05282646260182671,"frozenset({'Payment_Method=PayPal', 'Discount_group=11-20', 'Region=North'})",3
+0.05282646260182671,"frozenset({'Activity_group=<=30d', 'Spend_group=40-60'})",2
+0.05257960997284621,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Subscription_group=13-24m'})",3
+0.05257960997284621,"frozenset({'Payment_Method=PayPal', 'Spend_group=40-60', 'Activity_group=91-180d'})",3
+0.05257960997284621,"frozenset({'Churned=1', 'Region=East', 'Spend_group=40-60'})",3
+0.05257960997284621,"frozenset({'Subscription_group=13-24m', 'Region=South'})",2
+0.052332757343865714,"frozenset({'Gender=Female', 'Region=East', 'Churned=0', 'Spend_group=40-60'})",4
+0.052332757343865714,"frozenset({'Churned=1', 'Discount_group=1-10', 'Payment_Method=Debit Card'})",3
+0.052332757343865714,"frozenset({'Payment_Method=PayPal', 'Region=South', 'Spend_group=40-60'})",3
+0.052085904714885216,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",4
+0.052085904714885216,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Region=East', 'Spend_group=40-60'})",4
+0.052085904714885216,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Subscription_group=37m+', 'Tickets_group=1-2'})",4
+0.052085904714885216,"frozenset({'Discount_group=11-20', 'Tickets_group=3-5', 'Activity_group=91-180d'})",3
+0.052085904714885216,"frozenset({'Gender=Female', 'Subscription_group=25-36m', 'Churned=0'})",3
+0.052085904714885216,"frozenset({'Subscription_group=37m+', 'Region=East', 'Churned=0'})",3
+0.052085904714885216,"frozenset({'Gender=Male', 'Spend_group=20-40', 'Discount_group=1-10'})",3
+0.052085904714885216,"frozenset({'Gender=Male', 'Tickets_group=3-5', 'Payment_Method=PayPal'})",3
+0.052085904714885216,"frozenset({'Region=North', 'Payment_Method=Credit Card', 'Spend_group=40-60'})",3
+0.052085904714885216,"frozenset({'Payment_Method=Credit Card', 'Region=West', 'Spend_group=40-60'})",3
+0.052085904714885216,"frozenset({'Activity_group=<=30d', 'Discount_group=11-20'})",2
+0.05183905208590472,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Churned=0', 'Activity_group=91-180d'})",4
+0.05183905208590472,"frozenset({'Payment_Method=PayPal', 'Subscription_group=37m+', 'Churned=0', 'Spend_group=40-60'})",4
+0.05183905208590472,"frozenset({'Churned=1', 'Tickets_group=3-5', 'Payment_Method=Debit Card'})",3
+0.05159219945692422,"frozenset({'Activity_group=181-365d', 'Gender=Female', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",4
+0.05159219945692422,"frozenset({'Payment_Method=PayPal', 'Churned=0', 'Discount_group=1-10', 'Spend_group=40-60'})",4
+0.05159219945692422,"frozenset({'Gender=Female', 'Churned=0', 'Payment_Method=Debit Card', 'Tickets_group=1-2'})",4
+0.05159219945692422,"frozenset({'Payment_Method=Credit Card', 'Churned=1', 'Discount_group=11-20', 'Spend_group=40-60'})",4
+0.05159219945692422,"frozenset({'Activity_group=181-365d', 'Churned=0', 'Region=North'})",3
+0.05159219945692422,"frozenset({'Activity_group=181-365d', 'Subscription_group=<=12m', 'Churned=0'})",3
+0.05159219945692422,"frozenset({'Activity_group=181-365d', 'Tickets_group=3-5', 'Payment_Method=PayPal'})",3
+0.05159219945692422,"frozenset({'Payment_Method=Credit Card', 'Churned=0', 'Activity_group=91-180d'})",3
+0.05159219945692422,"frozenset({'Payment_Method=PayPal', 'Region=West', 'Churned=0'})",3
+0.05159219945692422,"frozenset({'Churned=1', 'Tickets_group=3-5', 'Subscription_group=37m+'})",3
+0.05159219945692422,"frozenset({'Gender=Male', 'Payment_Method=Credit Card', 'Discount_group=1-10'})",3
+0.05159219945692422,"frozenset({'Payment_Method=PayPal', 'Discount_group=11-20', 'Region=East'})",3
+0.05159219945692422,"frozenset({'Region=East', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",3
+0.05159219945692422,"frozenset({'Subscription_group=25-36m', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",3
+0.05159219945692422,"frozenset({'Region=North', 'Subscription_group=13-24m'})",2
+0.05134534682794372,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Payment_Method=PayPal', 'Tickets_group=1-2'})",4
+0.05134534682794372,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Discount_group=1-10', 'Spend_group=40-60'})",4
+0.05134534682794372,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Tickets_group=3-5', 'Churned=0'})",4
+0.05134534682794372,"frozenset({'Discount_group=11-20', 'Tickets_group=3-5', 'Subscription_group=37m+', 'Spend_group=40-60'})",4
+0.05134534682794372,"frozenset({'Churned=1', 'Spend_group=20-40', 'Region=South'})",3
+0.05134534682794372,"frozenset({'Region=East', 'Discount_group=1-10', 'Spend_group=40-60'})",3
+0.05134534682794372,"frozenset({'Discount_group=1-10', 'Region=South', 'Spend_group=40-60'})",3
+0.05134534682794372,"frozenset({'Payment_Method=PayPal', 'Region=West', 'Tickets_group=1-2'})",3
+0.05134534682794372,"frozenset({'Subscription_group=13-24m', 'Activity_group=91-180d'})",2
+0.05109849419896322,"frozenset({'Spend_group=40-60', 'Tickets_group=1-2', 'Subscription_group=37m+', 'Discount_group=11-20', 'Churned=1'})",5
+0.05109849419896322,"frozenset({'Activity_group=181-365d', 'Discount_group=11-20', 'Churned=1', 'Region=North'})",4
+0.05109849419896322,"frozenset({'Activity_group=181-365d', 'Region=West', 'Discount_group=11-20', 'Tickets_group=1-2'})",4
+0.05109849419896322,"frozenset({'Activity_group=181-365d', 'Gender=Male', 'Subscription_group=25-36m'})",3
+0.05109849419896322,"frozenset({'Region=West', 'Churned=1', 'Spend_group=20-40'})",3
+0.050851641569982724,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Discount_group=1-10', 'Tickets_group=1-2'})",4
+0.050851641569982724,"frozenset({'Activity_group=181-365d', 'Churned=1', 'Gender=Male', 'Tickets_group=3-5'})",4
+0.050851641569982724,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Subscription_group=25-36m', 'Spend_group=40-60'})",4
+0.050851641569982724,"frozenset({'Gender=Female', 'Subscription_group=37m+', 'Payment_Method=PayPal', 'Spend_group=40-60'})",4
+0.050851641569982724,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Activity_group=31-90d'})",3
+0.050851641569982724,"frozenset({'Tickets_group=3-5', 'Spend_group=40-60', 'Activity_group=91-180d'})",3
+0.050851641569982724,"frozenset({'Region=West', 'Discount_group=1-10', 'Tickets_group=1-2'})",3
+0.050851641569982724,"frozenset({'Gender=Female', 'Subscription_group=25-36m', 'Tickets_group=1-2'})",3
+0.050851641569982724,"frozenset({'Gender=Male', 'Subscription_group=<=12m', 'Spend_group=40-60'})",3
+0.050851641569982724,"frozenset({'Payment_Method=Credit Card', 'Activity_group=31-90d'})",2
+0.05060478894100222,"frozenset({'Activity_group=181-365d', 'Tickets_group=1-2', 'Gender=Female', 'Discount_group=11-20', 'Churned=1'})",5
+0.05060478894100222,"frozenset({'Spend_group=40-60', 'Gender=Female', 'Churned=0', 'Payment_Method=PayPal', 'Discount_group=11-20'})",5
+0.05060478894100222,"frozenset({'Discount_group=1-10', 'Churned=0', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",4
+0.05060478894100222,"frozenset({'Gender=Male', 'Payment_Method=Credit Card', 'Churned=0', 'Tickets_group=1-2'})",4
+0.05060478894100222,"frozenset({'Gender=Male', 'Subscription_group=25-36m', 'Churned=0', 'Spend_group=40-60'})",4
+0.05060478894100222,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Region=North', 'Spend_group=40-60'})",4
+0.05060478894100222,"frozenset({'Gender=Female', 'Region=West', 'Tickets_group=1-2', 'Spend_group=40-60'})",4
+0.05060478894100222,"frozenset({'Activity_group=181-365d', 'Region=West', 'Subscription_group=37m+'})",3
+0.05060478894100222,"frozenset({'Activity_group=181-365d', 'Tickets_group=3-5', 'Subscription_group=37m+'})",3
+0.05060478894100222,"frozenset({'Payment_Method=PayPal', 'Discount_group=11-20', 'Activity_group=91-180d'})",3
+0.05060478894100222,"frozenset({'Region=West', 'Churned=0', 'Discount_group=1-10'})",3
+0.05060478894100222,"frozenset({'Payment_Method=Credit Card', 'Spend_group=20-40', 'Discount_group=11-20'})",3
+0.05060478894100222,"frozenset({'Payment_Method=Credit Card', 'Subscription_group=25-36m', 'Spend_group=40-60'})",3
+0.05060478894100222,"frozenset({'Region=North', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",3
+0.05060478894100222,"frozenset({'Region=East', 'Subscription_group=37m+', 'Tickets_group=1-2'})",3
+0.05060478894100222,"frozenset({'Subscription_group=25-36m', 'Region=South'})",2
+0.05035793631202172,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Churned=1', 'Tickets_group=1-2'})",4
+0.05035793631202172,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Churned=1', 'Payment_Method=Debit Card'})",4
+0.05035793631202172,"frozenset({'Gender=Female', 'Tickets_group=3-5', 'Payment_Method=Debit Card'})",3
+0.05035793631202172,"frozenset({'Gender=Female', 'Spend_group=20-40', 'Tickets_group=3-5'})",3
+0.05011108368304122,"frozenset({'Activity_group=181-365d', 'Payment_Method=Credit Card', 'Gender=Female', 'Tickets_group=1-2'})",4
+0.05011108368304122,"frozenset({'Gender=Male', 'Discount_group=11-20', 'Spend_group=40-60', 'Activity_group=91-180d'})",4
+0.05011108368304122,"frozenset({'Gender=Female', 'Discount_group=11-20', 'Tickets_group=3-5', 'Churned=0'})",4
+0.05011108368304122,"frozenset({'Subscription_group=37m+', 'Churned=0', 'Payment_Method=Debit Card', 'Spend_group=40-60'})",4
+0.05011108368304122,"frozenset({'Gender=Male', 'Payment_Method=Credit Card', 'Churned=1', 'Discount_group=11-20'})",4
+0.05011108368304122,"frozenset({'Gender=Male', 'Subscription_group=37m+', 'Discount_group=1-10', 'Spend_group=40-60'})",4
+0.05011108368304122,"frozenset({'Gender=Female', 'Churned=1', 'Subscription_group=25-36m'})",3
+0.05011108368304122,"frozenset({'Payment_Method=PayPal', 'Discount_group=11-20', 'Subscription_group=<=12m'})",3
+0.05011108368304122,"frozenset({'Gender=Female', 'Subscription_group=37m+', 'Region=North'})",3
+0.05011108368304122,"frozenset({'Gender=Male', 'Region=West', 'Subscription_group=37m+'})",3
+0.05011108368304122,"frozenset({'Region=East', 'Subscription_group=13-24m'})",2
+0.05011108368304122,"frozenset({'Region=North', 'Subscription_group=<=12m'})",2
